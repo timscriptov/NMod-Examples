@@ -1,0 +1,3 @@
+tile.custom_block.name=Custom Block
+tile.aux_data_custom_block.name=Custom Block with Aux Data
+tile.custom_extends_block.name=Custom Extending Block

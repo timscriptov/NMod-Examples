@@ -1,0 +1,5 @@
+item.custom_item.name=My Custom Ender Pearl
+item.custom_extends_item.name=My Custom Extending Item
+item.magic_bed.name=Magic Bed
+item.magic_snowball.name=Magic Snow Ball
+interact.change=Change Item

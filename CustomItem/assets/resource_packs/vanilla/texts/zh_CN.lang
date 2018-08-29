@@ -1,0 +1,5 @@
+item.custom_item.name=我的自定义末影珍珠
+item.custom_extends_item.name=我的自定义继承物品
+item.magic_bed.name=神奇的床
+item.magic_snowball.name=神奇的雪球
+interact.change=改变物品

@@ -1,0 +1,106 @@
+{
+  //NMod name.
+  "name" : "Terrain+",
+  
+  //NMod package name.Must equal to package name defines in AndroidManifest.xml
+  "package_name" : "com.mcal.terrainplus",
+  
+  //Author of your NMod.Write your name or your organization name here.
+  "author" : "Тимашков Иван",
+  
+  //NMod native libraries.
+  "native_libs_info" :
+  [
+    {
+      //native library name:
+      "name" : "libterrain_plus.so",
+      //whether the nmod uses nmodapi:
+      "use_api" : "true"
+    }
+    
+    //You can even load more libraries...
+    //,
+    //{
+    //  "name" : "libnmod2.so",
+    //  "use_api" : false
+    //}
+  ],
+  
+  //Version Code:
+  //Default value is -1.
+  "version_code" : 1,
+  
+  //Version Name:
+  "version_name" : "1.0",
+  
+  //Nmod description:
+  "description" : "description",
+  
+  //What's new in this version?Write them in change_log.
+  "change_log" : "change_log",
+  
+  
+  //NMod Banner
+  //NMod Banner is a image view showed in main page.
+  
+  //Banner title is a text view under the image.It's default value is NMod name.
+  "banner_title" : "Edit your biomes!",
+  
+  //The file path of banner image in assets.
+  //The image must be the size of 1024(width)*500(height)!
+  "banner_image_path" : "banner.png",
+  
+  
+  //Assest Text Edit API
+  //Text edit can edit text files in minecraftpe assets.
+  
+  "text_edit" :
+  [
+    {
+      //Text file path in assets.
+      //The new file and the old file must defines in nmod assets and mcpe assets at the same time.
+      "path" : "resource_packs/vanilla/texts/en_US.lang",
+      
+      //There are three kinds of text edit mode: append,prepend,replace.
+      //Default value is replace.
+      //If you defines a different mode,THE TEXT EDIT WILL NOT WORK!
+      //MODE: append: append text after the source text.
+      //MODE: prepend: prepend text before the source text.
+      //MODE: replace: replace the source text with the new one(text defines in nmod assets).
+      "mode" : "append"
+    },
+    {
+      "path" : "resource_packs/vanilla/texts/zh_CN.lang",
+      "mode" : "append"
+    }
+  ]
+  
+  //Assest Json Edit API
+  //Json edit can edit json files in minecraftpe assets.
+  
+  /*
+  ,
+  "json_edit" :
+  [
+    {
+      //Json file path in assets.
+      //The new file and the old file must defines in nmod assets and mcpe assets at the same time.
+      "path" : "resource_packs/vanilla/textures/item_texture.json",
+      
+      //There are two kinds of json edit mode: merge,replace.
+      //Default value is replace.
+      //If you defines a different mode,THE TEXT EDIT WILL NOT WORK!
+      //MODE: merge: merge the two json files.
+      //MODE: replace: replace the source json with the new one(json defines in nmod assets).
+      "mode" : "merge"
+    }
+    
+    //You can even edit more text...
+    //,
+    //{
+    //  "path" : "The file path in assets",
+    //  "mode" : "prepend"
+    //}
+  ]
+  */
+}
