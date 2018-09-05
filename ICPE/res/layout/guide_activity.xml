@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+	xmlns:android="http://schemas.android.com/apk/res/android"
+	android:layout_width="fill_parent"
+	android:layout_height="fill_parent"
+	android:gravity="center"
+	android:orientation="vertical">
+
+	<LinearLayout
+		android:layout_width="match_parent"
+		android:layout_height="wrap_content"
+		android:orientation="vertical"
+		android:gravity="center">
+
+		<LinearLayout
+			android:layout_width="wrap_content"
+			android:layout_height="match_parent"
+			android:orientation="vertical"
+			android:gravity="center">
+
+			<ImageView
+				android:layout_height="wrap_content"
+				android:layout_width="wrap_content"
+				android:src="@drawable/icon"
+				android:id="@+id/guideactivityImageView"/>
+
+			<LinearLayout
+				android:layout_width="match_parent"
+				android:layout_height="wrap_content"
+				android:orientation="horizontal"
+				android:layout_marginTop="35dp"
+				android:gravity="center">
+
+				<android.support.v7.widget.AppCompatTextView
+					android:layout_height="wrap_content"
+					android:text="Version "
+					android:textAppearance="?android:attr/textAppearanceMedium"
+					android:layout_width="wrap_content"/>
+
+				<android.support.v7.widget.AppCompatTextView
+					android:layout_height="wrap_content"
+					android:text="@string/app_version"
+					android:textAppearance="?android:attr/textAppearanceMedium"
+					android:layout_width="wrap_content"/>
+
+			</LinearLayout>
+
+			<android.support.v7.widget.AppCompatButton
+				android:layout_height="wrap_content"
+				android:layout_width="match_parent"
+				android:text="@string/agree_license"
+				android:onClick="onAgreeLicense"
+				android:id="@+id/guideactivityButtonRectangle"/>
+
+		</LinearLayout>
+
+	</LinearLayout>
+
+	<LinearLayout
+		android:layout_width="match_parent"
+		android:layout_height="wrap_content"
+		android:gravity="center"
+		android:orientation="horizontal">
+
+		<CheckBox
+			android:layout_width="wrap_content"
+			android:layout_height="wrap_content"
+			android:id="@+id/guideactivityCheckBox"/>
+
+		<RelativeLayout
+			android:layout_width="wrap_content"
+			android:layout_height="match_parent"
+			android:orientation="vertical">
+
+			<android.support.v7.widget.AppCompatTextView
+				android:layout_height="wrap_content"
+				android:layout_width="wrap_content"
+				android:text="@string/agree_user_license"
+				android:layout_centerInParent="true"/>
+
+		</RelativeLayout>
+
+		<RelativeLayout
+			android:layout_width="wrap_content"
+			android:layout_height="match_parent"
+			android:orientation="vertical">
+
+			<RelativeLayout
+				android:layout_height="wrap_content"
+				android:layout_width="wrap_content"
+				android:layout_centerInParent="true"
+				android:onClick="onReadLicense">
+
+				<android.support.v7.widget.AppCompatTextView
+					android:layout_centerInParent="true"
+					android:layout_height="wrap_content"
+					android:id="@+id/guideactivity_UserLegal"
+					android:textColor="#0000FF"
+					android:layout_width="wrap_content"
+					android:text="@string/user_legal"/>
+
+			</RelativeLayout>
+
+		</RelativeLayout>
+
+		<RelativeLayout
+			android:layout_width="wrap_content"
+			android:layout_height="match_parent"
+			android:orientation="vertical">
+
+			<android.support.v7.widget.AppCompatTextView
+				android:layout_height="wrap_content"
+				android:layout_width="wrap_content"
+				android:layout_centerInParent="true"
+				android:text="@string/statement_end"/>
+
+		</RelativeLayout>
+
+	</LinearLayout>
+
+</LinearLayout>
+

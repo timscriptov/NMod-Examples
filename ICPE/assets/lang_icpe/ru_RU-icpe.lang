@@ -1,0 +1,1184 @@
+# ru_RU translation by kellixon (IC2 2.6.70-ex110 от 23.09.16)
+ 
+#Cables
+cable.copper_cable_0 = Медный провод
+cable.copper_cable_1 = Изолированный медный провод
+cable.glass_cable = Стекловолоконный провод
+cable.gold_cable_0 = Золотой провод
+cable.gold_cable_1 = Изолированный золотой провод
+cable.gold_cable_2 = Золотой провод с двойной изоляцией
+cable.iron_cable_0 = Высоковольтный провод
+cable.iron_cable_1 = Изолированный высоковольтный провод
+cable.iron_cable_2 = Высоковольтный провод с двойной изоляцией
+cable.iron_cable_3 = Высоковольтный провод с тройной изоляцией
+cable.tin_cable_0 = Оловянный провод
+cable.tin_cable_1 = Изолированный оловянный провод
+cable.detector_cable = EU Провод-детектор
+cable.splitter_cable = EU Провод-разъединитель
+cable.tooltip.loss = Потери: %s EU/блок
+
+
+#Resources
+resource.basalt = Базальт
+resource.copper_ore = Медная руда
+resource.lead_ore = Свинцовая руда
+resource.tin_ore = Оловянная руда
+resource.uranium_ore = Урановая руда
+resource.bronze_block = Бронзовый блок
+resource.copper_block = Медный блок
+resource.lead_block = Свинцовый блок
+resource.steel_block = Стальной блок
+resource.tin_block = Оловянный блок
+resource.uranium_block = Урановый блок
+resource.reinforced_stone = Укреплённый камень
+resource.machine = Основной корпус машины
+resource.advanced_machine = Расширенный корпус машины
+resource.reactor_vessel = Реактор сосудов высокого давления
+misc_resource.ashes = Пепел
+misc_resource.iridium_ore = Иридиевая руда
+misc_resource.iridium_shard = Иридиевый осколок
+misc_resource.matter = Жидкая материя
+misc_resource.resin = Липкая смола
+misc_resource.slag = Шлак
+
+
+#Crushed Ore
+crushed.copper = Измельчённая медная руда
+crushed.gold = Измельчённая золотая руда
+crushed.iron = Измельчённая железная руда
+crushed.tin = Измельчённая оловянная руда
+crushed.uranium = Измельчённая урановая руда
+crushed.silver = Измельчённая серебряная руда
+crushed.lead = Измельчённая свинцовая руда
+
+
+#Purified Crushed Ore
+purified.copper = Очищенная измельчённая медная руда
+purified.gold = Очищенная измельчённая золотая руда
+purified.iron = Очищенная измельчённая железная руда
+purified.tin = Очищенная измельчённая оловянная руда
+purified.uranium = Очищенная измельчённая урановая руда
+purified.silver = Очищенная измельчённая серебряная руда
+purified.lead = Очищенная измельчённая свинцовая руда
+
+
+#Plates
+plate.bronze = Бронзовая пластина
+plate.steel = Стальная пластина
+plate.copper = Медная пластина
+plate.gold = Золотая пластина
+plate.iron = Железная пластина
+plate.tin = Оловянная пластина
+plate.lead = Свинцовая пластина
+plate.obsidian = Обсидиановая пластина
+plate.lapis = Лазуритовая пластина
+plate.dense_bronze = Плотная бронзовая пластина
+plate.dense_steel = Плотная стальная пластина
+plate.dense_copper = Плотная медная пластина
+plate.dense_gold = Плотная золотая пластина
+plate.dense_iron = Плотная железная пластина
+plate.dense_tin = Плотная оловянная пластина
+plate.dense_lead = Плотная свинцовая пластина
+plate.dense_obsidian = Плотная обсидиановая пластина
+plate.dense_lapis = Плотная лазуритовая пластина
+
+
+#Item Casings
+casing.copper = Медная оболочка
+casing.tin = Оловянная оболочка
+casing.bronze = Бронзовая оболочка
+casing.gold = Золотая оболочка
+casing.iron = Железная оболочка
+casing.steel = Стальная оболочка
+casing.lead = Свинцовая оболочка
+
+
+#Ingots
+ingot.steel = Стальной слиток
+ingot.copper = Медный слиток
+ingot.tin = Оловянный слиток
+ingot.bronze = Бронзовый слиток
+ingot.alloy = Композитный слиток
+ingot.lead = Свинцовый слиток
+ingot.silver = Серебряный слиток
+
+
+#Dusts
+dust.stone = Каменная пыль
+dust.lead = Свинцовая пыль
+dust.obsidian = Обсидиановая пыль
+dust.lapis = Лазуритовая пыль
+dust.lithium = Литиевая пыль
+dust.sulfur = Серная пыль
+dust.silicon_dioxide = Диоксид кремния
+dust.diamond = Алмазная пыль
+dust.energium = Энергопыль
+dust.coal = Угольная пыль
+dust.coal_fuel = Гидратированная угольная пыль
+dust.iron = Железная пыль
+dust.gold = Золотая пыль
+dust.copper = Медная пыль
+dust.tin = Оловянная пыль
+dust.bronze = Бронзовая пыль
+dust.clay = Глиняная пыль
+dust.silver = Серебряная пыль
+
+
+#Small Dusts
+dust.small_copper = Небольшая кучка медной пыли
+dust.small_gold = Небольшая кучка золотой пыли
+dust.small_tin = Небольшая кучка оловянной пыли
+dust.small_silver = Небольшая кучка серебряной пыли
+dust.small_lead = Небольшая кучка свинцовой пыли
+dust.small_sulfur = Небольшая кучка серной пыли
+dust.small_lithium = Небольшая кучка литиевой пыли
+dust.small_iron = Небольшая кучка железной пыли
+dust.small_bronze = Небольшая кучка бронзовой пыли
+dust.small_lapis = Небольшая кучка лазуритовой пыли
+dust.small_obsidian = Небольшая кучка обсидиановой пыли
+
+
+#Cells
+fluid_cell = Универсальная жидкостная капсула
+itemCell = Пустая капсула
+itemCellLava = Капсула лавы
+itemCellWater = Капсула воды
+itemCellUuMatter = Капсула жидкой материи
+itemCellCF = Капсула строительной пены
+itemCellAir = Капсула сжатого воздуха
+itemCellCoal = Капсула гидратированного угля
+itemCellBiomass = Капсула биомассы
+itemCellCoalRef = Капсула угольного топлива
+itemCellBiogas = Капсула биогаза
+itemCellWaterElectro = Капсула с электролизованной водой
+itemCellCoolant = Капсула хладагента
+itemCellHotCoolant = Капсула горячего хладагента
+itemCellPahoehoelava = Капсула базальтовой лавы
+itemCellSteam = Капсула пара
+itemCellHydrant = Увлажняющая капсула
+itemCellDistilledWater = Капсула дистиллированной воды
+itemCellSuperheatedSteam = Капсула перегретого пара
+
+
+#Tools
+drill = Шахтёрский бур
+diamond_drill = Алмазный бур
+iridium_drill = Иридиевый бур
+chainsaw = Цепная пила
+scanner = Сканер КР
+advanced_scanner = Сканер ЦР
+scanner.range = Радиус: %s
+itemScanner.found = Результат сканирования:
+wrench = Гаечный ключ
+forge_hammer = Кузнечный молот
+electric_hoe = Электромотыга
+mining_laser = Шахтёрский лазер
+bronze_pickaxe = Бронзовая кирка
+bronze_axe = Бронзовый топор
+bronze_sword = Бронзовый меч
+bronze_shovel = Бронзовая лопата
+bronze_hoe = Бронзовая мотыга
+cutter = Кусачки
+nano_saber = Наносабля
+treetap = Краник
+foam_sprayer = Распылитель строительной пены
+electric_wrench = Электроключ
+electric_treetap = Электрокраник
+frequency_transmitter = Частотный связыватель
+frequency_transmitter.tooltip.blank = Цель не задана.
+frequency_transmitter.tooltip.target = Цель: X = %s Y = %s Z = %s
+debug_item = Предмет отладки
+obscurator = Хамелеон
+cropnalyzer = Агроанализатор 
+wind_meter = Ветромер
+lathing_tool = Токарный инструмент
+weeding_trowel = Пропалыватель
+tool_box = Ящик для инструментов
+ 
+painter = Валик
+painter.black = Чёрный валик
+painter.blue = Синий валик
+painter.brown = Коричневый валик
+painter.light_blue = Светло-голубой валик
+painter.cyan = Бирюзовый валик
+painter.gray = Тёмно-серый валик
+painter.green = Зелёный валик
+painter.light_gray = Светло-серый валик
+painter.lime = Лаймовый валик
+painter.magenta = Сиреневый валик
+painter.orange = Оранжевый валик
+painter.pink = Розовый валик
+painter.purple = Фиолетовый валик
+painter.red = Красный валик
+painter.white = Белый валик
+painter.yellow = Жёлтый валик
+ 
+meter = Ваттметр
+itemToolMEter.mode = Режим:
+itemToolMEter.mode.EnergyIn = Энергии входит
+itemToolMEter.mode.EnergyOut = Энергии выходит
+itemToolMEter.mode.EnergyGain = Энергии приобретается
+itemToolMEter.mode.Voltage = Напряжение
+itemToolMEter.mode.switch = Переключён на:
+itemToolMEter.mode.reset = Сброс
+itemToolMEter.cycle = Цикл: %1$s сек
+itemToolMEter.avg = Средн.:
+itemToolMEter.max/min = Макс./Мин.
+ 
+upgrade_kit.mfsu = Набор улучшения МФСУ
+upgrade_kit.mfsu.info = Применяется к МФЭ и заряжающей плите(МФЭ)
+
+
+#Armour and Stuff
+jetpack = Реактивный ранец
+jetpack_electric = Электрический реактивный ранец
+bronze_helmet = Бронзовый шлем
+bronze_chestplate = Бронзовая кираса
+bronze_leggings = Бронзовые поножи
+bronze_boots = Бронзовые ботинки
+batpack = Аккумуляторный ранец
+advanced_batpack = Продвинутый аккумуляторный ранец
+lappack = Лазуротроновый ранец
+energy_pack = Энергетический ранец
+alloy_chestplate = Композитный жилет
+nano_helmet = Нано-шлем
+nano_chestplate = Нано-кираса
+nano_leggings = Нано-поножи
+nano_boots = Нано-ботинки
+quantum_helmet = Квантовый шлем
+quantum_chestplate = Квантовая кираса
+quantum_leggings = Квантовые поножи
+quantum_boots = Квантовые ботинки
+rubber_boots = Резиновые ботинки
+hazmat_helmet = Шлем-акваланг
+hazmat_chestplate = Защитная куртка
+hazmat_leggings = Защитные поножи
+nightvision_goggles = Прибор ночного видения
+solar_helmet = Шлем с солнечной батареей
+static_boots = Электростатические ботинки
+cf_pack = Строительный ранец
+
+crafting.jetpack_attachment_plate=Реактивный ранец с прикреплённой пластиной
+jetpackAttached = Прикреплённый электрический реактивный ранец
+
+
+#Upgrades
+upgrade.overclocker = Улучшение "Ускоритель"
+upgrade.transformer = Улучшение "Трансформатор"
+upgrade.energy_storage = Улучшение "Энергохранитель"
+upgrade.ejector = Улучшение "Выталкиватель"
+upgrade.pulling = Улучшение "Загрузчик"
+upgrade.fluid_ejector = Улучшение "Выталкиватель жидкости"
+upgrade.fluid_pulling = Улучшение "Загрузчик жидкостей"
+upgrade.redstone_inverter = Улучшение "Инвертор красного сигнала"
+
+
+## REACTORS ##
+#Reactor Stuff - Tooltips
+reactoritem.heatwarning.line1 = Не может использоваться в жидкостном реакторе
+reactoritem.heatwarning.line2 = Пожалуйста охладите EU реактор
+reactoritem.durability = Прочность:
+
+
+#Reactor Stuff - Cooling/Heat Management
+heat_storage = Охлаждающий стержень 10к
+tri_heat_storage = Охлаждающий стержень 30к
+hex_heat_storage = Охлаждающий стержень 60к
+plating = Обшивка реактора
+heat_plating = Теплоёмкая реакторная обшивочная пластина
+containment_plating = Сдерживающая реакторная обшивочная пластина
+heat_exchanger = Теплообменник
+reactor_heat_exchanger = Реакторный теплообменник
+component_heat_exchanger = Компонентный теплообменник
+advanced_heat_exchanger = Продвинутый теплообменник
+heat_vent = Теплоотвод
+reactor_heat_vent = Реакторный теплоотвод
+overclocked_heat_vent = Разогнанный теплоотвод
+component_heat_vent = Компонентный теплоотвод
+advanced_heat_vent = Улучшенный теплоотвод
+neutron_reflector = Отражатель нейтронов
+iridium_reflector = Иридиевый отражатель нейтронов
+thick_neutron_reflector = Утолщённый отражатель нейтронов
+rsh_condensator = Красный конденсатор
+lzh_condensator = Лазуритовый конденсатор
+
+
+#Reactor Stuff - Radioactive Items
+crafting.fuel_rod = Топливный стержень (Пустой)
+uranium_fuel_rod = Топливный стержень (Уран)
+dual_uranium_fuel_rod = Спаренный топливный стержень (Уран)
+quad_uranium_fuel_rod = Счетверённый топливный стержень (Уран)
+mox_fuel_rod = Топливный стержень (MOX)
+dual_mox_fuel_rod = Спаренный топливный стержень (MOX)
+quad_mox_fuel_rod = Счетверённый топливный стержень (MOX)
+nuclear.depleted_uranium = Топливный стержень (Обеднённый Уран)
+nuclear.depleted_dual_uranium = Спаренный топливный стержень (Обеднённый Уран)
+nuclear.depleted_quad_uranium = Счетверённый топливный стержень (Обеднённый Уран)
+nuclear.depleted_mox = Топливный стержень (Обеднённый MOX)
+nuclear.depleted_dual_mox = Спаренный топливный стержень (Обеднённый MOX)
+nuclear.depleted_quad_mox = Счетверённый топливный стержень (Обеднённый MOX)
+lithium_fuel_rod = Топливный стержень (Литий)
+itemTritiumCell = Топливный стержень (Тритий)
+nuclear.uranium = Обогащённое урановое ядерное топливо
+nuclear.mox = Ядерное топливо MOX
+nuclear.plutonium = Плутоний
+nuclear.small_plutonium = Кусочек плутония
+nuclear.uranium_235 = Уран-235
+nuclear.small_uranium_235 = Кусочек урана-235
+nuclear.uranium_238 = Уран-238
+nuclear.small_uranium_238 = Кусочек урана-238
+nuclear.uranium_pellet = Пеллета обогащённого уранового ядерного топлива
+nuclear.mox_pellet = Пеллета ядерного топлива MOX
+nuclear.rtg_pellet = Пеллета РИТЭГ-топлива
+
+ 
+#Terraformer Blue Prints
+tfbp.blank = Террачип "Пустой"
+tfbp.cultivation = Террачип "Озеленение"
+tfbp.irrigation = Террачип "Орошение"
+tfbp.desertification = Террачип "Опустынивание"
+tfbp.chilling = Террачип "Охлаждение"
+tfbp.flatification = Террачип "Выравнивание"
+tfbp.mushroom = Террачип "Грибы"
+
+
+#Crops
+crop.unknown = Неизвестно
+crop.invalid = Недействительно
+crop.weed = Сорняк
+crop.wheat = Пшеница
+crop.pumpkin = Тыква
+crop.melon = Арбуз
+crop.dandelion = Одуванчик
+crop.rose = Роза
+crop.blackthorn = Терновник
+crop.tulip = Тюльпан
+crop.cyazint = Гиацинт
+crop.venomilia = Веномилия
+crop.reed = Сахарный тростник
+crop.stickreed = Резиновый тростник
+crop.cocoa = Какао
+crop.ferru = Феррий
+crop.aurelia = Аурелия
+crop.redwheat = Красная пшеница
+crop.netherWart = Нарост Нижнего мира
+crop.terraWart = Земляной нарост
+crop.coffee = Кофе
+crop.hops = Хмель
+crop.carrots = Морковь
+crop.potato = Картофель
+crop.redMushroom = Красный гриб
+crop.brownMushroom = Коричневый гриб
+crop.seeds = %1$s Семена
+crop.eatingplant = Плотоядное растение
+crop.cyprium = "Медное" растение
+crop.stagnium = "Оловянное" растение
+crop.plumbiscus = "Свинцовое" растение
+crop.shining = "Серебряное" растение
+death.attack.cropEating = %1$s съел одно плотоядное растение
+
+
+#Batteries
+single_use_battery = Одноразовая батарейка
+re_battery = RE-Аккумулятор
+itemBatREDischarged = Незаряженный RE-Аккумулятор
+advanced_re_battery = Продвинутый RE-Аккумулятор
+energy_crystal = Энергетический кристалл
+lapotron_crystal = Лазуротроновый кристалл
+charging_re_battery = Заряжающий RE-Аккумулятор
+advanced_charging_re_battery = Продвинутый заряжающий RE-Аккумулятор
+charging_energy_crystal = Заряжающий энергетический кристалл
+charging_lapotron_crystal = Заряжающий лазуротроновый кристалл
+
+
+#Random Items
+itemFuelCan = Канистра топлива
+itemFuelCanEmpty = Пустая канистра
+crafting.compressed_hydrated_coal = Сжатый гидратированный уголь
+crafting.plant_ball = Биомасса
+crafting.tin_can = Консервная банка
+filled_tin_can = Заполненная консервная банка
+ 
+crafting.rubber = Резина
+dynamite = Динамит
+dynamite_sticky = Липкий динамит
+remote = Детонатор ТНТ
+crafting.circuit = Электросхема
+crafting.advanced_circuit = Продвинутая электросхема
+crafting.alloy = Композит
+crafting.scrap = Утильсырьё
+crafting.scrap_box = Коробка с утильсырьём
+itemCoin = Промышленная монета
+reinforced_door = Укреплённая дверь
+crafting.carbon_fibre = Углеволокно
+crafting.carbon_mesh = Углеткань
+crafting.carbon_plate = Углепластик
+crafting.iridium = Укреплённая иридиевая пластина
+crafting.coal_ball = Угольный шарик
+crafting.coal_block = Сжатый угольный шарик
+# ^ Это не угольный блок :P
+crafting.coal_chunk = Куб сжатого угля
+crafting.industrial_diamond = Промышленный алмаз
+crop_res.fertilizer = Удобрение
+boat.carbon = Углепластиковое каноэ
+boat.rubber = Резиновая шлюпка
+boat.broken_rubber = Повреждённая резиновая шлюпка
+boat.electric = Электролодка
+item.terra_wart = Земельный нарост
+crop_res.coffee_beans = Кофейные зёрна
+crop_res.coffee_powder = Молотый кофе
+mug.empty = Каменная кружка
+mug.cold_coffee = Холодный кофе
+mug.dark_coffee = Тёмный кофе
+mug.coffee = Кофе
+crafting.bio_chaff = Отходы
+crop_res.hops = Хмель
+crop_res.grin_powder = Токсичная пыль
+itemWeedEx = Средство от сорняков
+crop_res.weed = Сорняк
+itemCoolant = Хладагент
+crafting.heat_conductor = Теплопровод
+crafting.copper_boiler = Медный котёл
+crafting.cf_powder = Сжатая строительная пена
+crafting.pellet = Пеллета строительной пены
+crafting.coil = Катушка
+crafting.electric_motor = Электромотор
+crafting.power_unit = Силовой агрегат
+crafting.small_power_unit = Малый силовой агрегат
+crafting.raw_crystal_memory = Необработанный кристалл памяти
+crystal_memory = Кристалл памяти
+crafting.iron_shaft = Стержень (Железо)
+crafting.steel_shaft = Стержень (Сталь)
+containment_box = Герметичный ящик для радиоактивных материалов
+itemwindmeter.info = Сила ветра: %1$s MCW
+
+
+#Fluids
+pahoehoe_lava = Базальтовая лава
+uu_matter = Жидкая материя
+construction_foam = Строительная пена
+coolant = Хладагент (IC2)
+hot_coolant = Горячий хладагент (IC2)
+biogas = Биогаз
+biomass = Биомасса
+distilled_water = Дистиллированная вода
+superheated_steam = Перегретый пар
+steam = Пар
+hot_water = Вода горячего источника
+air = Воздух
+heavy_water = Тяжёлая вода
+hydrogen = Водород
+oxygen = Кислород
+weed_ex = Пестицид
+
+
+#Machine
+te.invalid = Некорректный
+ 
+te.advanced_miner = Продвинутая буровая установка
+AdvMiner.gui.name = Продвинутая буровая установка
+AdvMiner.gui.mode.blacklist = Режим: Чёрный список
+AdvMiner.gui.mode.whitelist = Режим: Белый список
+AdvMiner.gui.info.minelevel = X: %1$s Z: %2$s Y: %3$s
+AdvMiner.gui.switch.reset = Перезапустить установку 
+AdvMiner.gui.switch.mode = Сменить режим
+AdvMiner.gui.switch.silktouch = Сменить на шёлковое касание (текущий: %1$s)
+ 
+te.canner = Жидкостный/Твердотельный наполняющий механизм
+Canner.gui.name = Жидкостный/Твердотельный наполняющий механизм
+Canner.gui.switch.BottleSolid = Наполнение
+Canner.gui.switch.EmptyLiquid = перелить из капсулы в бак
+Canner.gui.switch.BottleLiquid = заполнить капсулу из бака
+Canner.gui.switch.EnrichLiquid = обогатить жидкостью (бак или капсулу)
+Canner.gui.switchTanks = Переключить баки
+ 
+te.centrifuge = Термальная центрифуга
+Centrifuge.gui.name = Термальная центрифуга
+ 
+te.compressor = Компрессор
+Compressor.gui.name = Компрессор
+ 
+te.cropmatron = Автосадовник
+Cropmatron.gui.name = Автосадовник
+ 
+te.electric_furnace = Электрическая печь
+ElecFurnace.gui.name = Электрическая печь
+ 
+te.electrolyzer = Электролизёр
+Electrolyzer.gui.name = Электролизёр
+ 
+te.extractor = Экстрактор
+Extractor.gui.name = Экстрактор
+ 
+te.fermenter = Ферментер
+Fermenter.gui.name = Ферментер
+Fermenter.gui.info.conversion = процесс преобразования:
+Fermenter.gui.info.waste = процесс сбора отходов
+ 
+te.fluid_bottler = Разливочная машина
+FluidBottler.gui.name = Разливочная машина
+ 
+te.induction_furnace = Индукционная печь
+Induction.gui.name = Индукционная печь
+ 
+te.iron_furnace = Железная печь
+IronFurnace.gui.name = Железная печь
+ 
+te.liquid_heat_exchanger = Жидкостный теплообменник
+LiquidHeatExchanger.gui.name = Жидкостный теплообменник
+LiquidHeatExchanger.gui.tooltipheat = текущая теплопередача / макс. теплопередача
+LiquidHeatExchanger.gui.tooltipvent = Добавьте теплопроводники для быстрого преобразования
+
+te.macerator = Дробитель
+Macerator.gui.name = Дробитель
+ 
+te.matter_generator = Производитель материи
+Matter.gui.name = Производитель материи
+Matter.gui.info.progress = Прогресс:
+Matter.gui.info.amplifier = Усиление:
+ 
+te.metal_former = Формовщик металла
+MetalFormer.gui.name = Формовщик металла
+MetalFormer.gui.switch.Extruding = Выдавливание
+MetalFormer.gui.switch.Rolling = Прокатка
+MetalFormer.gui.switch.Cutting = Резка
+
+te.miner = Буровая установка
+Miner.gui.name = Буровая установка
+ 
+te.ore_washing_plant = Рудопромывочная машина
+OreWashingPlan.gui.name = Рудопромывочная машина
+ 
+te.pattern_storage = Шаблонохранитель
+PatternStorage.gui.name = Шаблонохранитель
+PatternStorage.gui.info.last = предыдущий шаблон
+PatternStorage.gui.info.next = следующий шаблон
+PatternStorage.gui.info.import = импорт из кристалла
+PatternStorage.gui.info.export = экспорт в кристалл
+ 
+te.pump = Помпа
+Pump.gui.name = Помпа
+ 
+Magnetizer.gui.hasMetalShoes = Электростатические ботинки обнаружены!
+Magnetizer.gui.noMetalShoes = Электростатические ботинки НЕ обнаружены!
+ 
+te.recycler = Утилизатор
+Recycler.gui.name = Утилизатор
+ 
+te.replicator = Репликатор
+Replicator.gui.name = Репликатор
+Replicator.gui.info.Stop = Стоп
+Replicator.gui.info.single = одиночный запуск
+Replicator.gui.info.repeat = повторяющийся запуск
+Replicator.gui.info.last = предыдущий шаблон
+Replicator.gui.info.next = следующий шаблон
+Replicator.gui.info.Waiting = Ожидание....
+ 
+te.scanner = Сканер
+Scanner.gui.name = Сканер
+Scanner.gui.idle = Ожидание
+Scanner.gui.info1 = Сканирование....
+Scanner.gui.info2 = Ожидание..нет хранилища
+Scanner.gui.info3 = Ошибка: потеря энергии
+Scanner.gui.info4 = Сканирование завершено
+Scanner.gui.info5 = Результат сканирования
+Scanner.gui.info6 = !! Ошибка !!
+Scanner.gui.info7 = Ошибка: нет хранилища
+Scanner.gui.info8 = Ошибка: уже присутствует
+Scanner.gui.button.delete = удалить
+Scanner.gui.button.save = сохранить
+ 
+te.solid_canner = Наполнитель
+SolidCanner.gui.name = Наполнитель
+ 
+te.fluid_regulator = Жидкостный регулятор
+FluidRegulator.gui.name = Жидкостный регулятор
+ 
+te.condenser = Конденсатор
+Condenser.gui.name = Конденсатор
+Condenser.gui.tooltipvent = Добавьте теплоотводы для ускорения ( %1$s EU/теплоотвод )
+ 
+te.steam_generator = Парогенератор
+SteamGenerator.gui.name = Парогенератор
+SteamGenerator.gui.heatInput = Вход: %1$s Hu/t
+SteamGenerator.gui.pressurevalve = %1$s Бар
+SteamGenerator.gui.systemheat = Система: %1$s C
+SteamGenerator.output.water = Вода
+SteamGenerator.output.destiwater = Дистиллированная вода
+SteamGenerator.output.steam = Пар
+SteamGenerator.output.hotsteam = Перегретый пар
+SteamGenerator.gui.calcification = Накипь: %1$s
+SteamGenerator.gui.info.waterinput = Получение воды
+SteamGenerator.gui.info.heatinput = Получение тепла
+SteamGenerator.gui.info.pressvalve = Клапан
+SteamGenerator.gui.info.fluidoutput = Выход:
+ 
+te.blast_furnace = Доменная печь
+BlastFurnace.gui.name = Доменная печь
+BlastFurnace.gui.toolair = Для обжига требуется 6 капсул сжатого воздуха
+BlastFurnace.gui.airmiss = Требуется больше капсул сжатого воздуха
+BlastFurnace.gui.progress = Прогресс:
+BlastFurnace.gui.heat = Нагрев:
+ 
+te.block_cutter = Режущая машина
+BlockCutter.gui.name = Режущая машина
+BlockCutter.gui.bladeslot = Слот для режущего диска
+BlockCutter.gui.bladeTooWeak = Режущий диск слишком мягок или отсутствует
+ 
+block_cutting_blade.iron = Режущий диск (Железный)
+block_cutting_blade.steel = Режущий диск (Стальной)
+block_cutting_blade.diamond = Режущий диск (Алмазный)
+CuttingBlade.hardness = Твёрдость: %s
+ 
+IronBlockCuttingBlade.info = разрезает блоки мягче железа
+AdvIronBlockCuttingBlade.info = разрезает блоки мягче закалённого железа
+DiamondBlockCuttingBlade.info = разрезает блоки мягче алмаза
+ 
+te.solar_distiller = Солнечный опреснитель
+SolarDestiller.gui.name = Солнечный опреснитель
+ 
+te.fluid_distributor = Жидкостный распределитель
+FluidDistributor.gui.name = Жидкостный распределитель
+FluidDistributor.gui.mode.info = Режим:
+FluidDistributor.gui.mode.distribute = распространение
+FluidDistributor.gui.mode.concentrate = концентрация
+
+te.sorting_machine = Электрическая сортирующая машина
+SortingMachine.gui.name = Электрическая сортирующая машина
+SortingMachine.default = Путь по-умолчанию
+SortingMachine.whitelist = Белый список
+ 
+te.item_buffer = Предметный буфер
+ItemBuffer.gui.name = Предметный буфер
+
+te.item_buffer_2 = Компактный предметный буфер
+
+te.tank = Бак
+ 
+te.crop_harvester = Сборщик урожая
+CropHavester.gui.name = Сборщик урожая
+ 
+te.chunk_loader = Загрузчик чанков
+
+te.creative_generator = Творческий Генератор
+
+
+#Transformers
+blockTransformer = Трансформатор
+te.lv_transformer = Трансформатор Низкого Напряжения
+te.mv_transformer = Трансформатор Среднего Напряжения
+te.hv_transformer = Трансформатор Высокого Напряжения
+te.ev_transformer = Трансформатор Сверхвысокого Напряжения
+ 
+Transformer.gui.switch.mode1 = Редстоун = повыш.
+Transformer.gui.switch.mode2 = фиксир. пониж.
+Transformer.gui.switch.mode3 = фиксир. повыш.
+ 
+Transformer.gui.Output = Выход:
+Transformer.gui.Input = Вход:
+Transformer.gui.refresh = принудительное обновление нужно только при отсутствии потока энергии
+
+
+#EU Storage
+te.batbox = Энергохранитель
+te.cesu = Медный энергохранитель среднего напряжения (МЭСН)
+te.mfe = Многофункциональный энергохранитель (МФЭ)
+te.mfsu = Многофункциональное сверхвместительное устройство (МФСУ)
+ 
+te.chargepad_batbox = Заряжающая плита (Энергохранитель)
+te.chargepad_cesu = Заряжающая плита (МЭСН)
+te.chargepad_mfe = Заряжающая плита (МФЭ)
+te.chargepad_mfsu = Заряжающая плита (МФСУ)
+ 
+EUStorage.gui.mod.redstone0 = Красный сигнал: Без действия
+EUStorage.gui.mod.redstone1 = Красный сигнал: Излучать, если заполнено
+EUStorage.gui.mod.redstone2 = Красный сигнал: Излучать, если наполовину заполнено
+EUStorage.gui.mod.redstone3 = Красный сигнал: Излучать, если наполовину заполнено или пусто
+EUStorage.gui.mod.redstone4 = Красный сигнал: Излучать, если пусто
+EUStorage.gui.mod.redstone5 = Красный сигнал: Не подавать энергию
+EUStorage.gui.mod.redstone6 = Красный сигнал: Не подавать энергию, если не заполнено
+ 
+EUStorage.gui.info.armor = Броня
+EUStorage.gui.info.level = Уровень энергии:
+EUStorage.gui.info.output = Выход: %1$s EU/t
+ 
+blockChargepad.gui.mod.redstone0 = Красный сигнал: Излучать, если активен
+blockChargepad.gui.mod.redstone1 = Красный сигнал: Излучать, если не активен
+
+
+#EU Generators
+te.generator = Генератор
+Generator.gui.name = Генератор
+ 
+te.geo_generator = Геотермальный генератор
+GeoGenerator.gui.name = Геотермальный генератор
+ 
+te.nuclear_reactor = Ядерный реактор
+NuclearReactor.gui.name = Ядерный реактор
+NuclearReactor.gui.info.EUoutput = Выход: %1$s EU/t
+NuclearReactor.gui.info.HUoutput = Выход: %1$s HU/t
+NuclearReactor.gui.info.temp = Температура ядра: %1$.2f%%
+NuclearReactor.gui.mode.fluid = Ядерный реактор работает в охлаждающем режиме: Вывод на 100%
+NuclearReactor.gui.mode.electric = Ядерный реактор работает в энергетическом режиме: Выход регулируется на 50%
+
+te.rci_rsh = Впрыскиватель реакторного хладагента (красного)
+te.rci_lzh = Впрыскиватель реакторного хладагента (лазуревого)
+ 
+te.rt_generator = Радиоизотопный термоэлектрический генератор
+RTGenerator.gui.name = Радиоизотопный термоэлектрический генератор
+ 
+te.semifluid_generator = Полужидкостный генератор
+SemifluidGenerator.gui.name = Полужидкостный генератор
+ 
+te.solar_generator = Солнечная панель
+SolarGenerator.gui.name = Солнечная панель
+ 
+te.stirling_generator = Генератор Стирлинга
+StirlingGenerator.gui.name = Генератор Стирлинга
+StirlingGenerator.gui.productiontooltip = получено тепла / производство EU
+ 
+te.water_generator = Гидрогенератор
+WaterGenerator.gui.name = Гидрогенератор
+ 
+te.wind_generator = Ветрогенератор
+WindGenerator.gui.name = Ветрогенератор
+ 
+te.kinetic_generator = Кинетический генератор
+KineticGenerator.gui.name = Кинетический генератор
+KineticGenerator.gui.Output = Производство: %1$s EU/t
+
+
+#Heat Generators
+te.fluid_heat_generator = Жидкостный теплогенератор
+FluidHeatGenerator.gui.name = Жидкостный теплогенератор
+FluidHeatGenerator.gui.info.Emit = Выход:
+FluidHeatGenerator.gui.info.MaxEmit = Макс.выход:
+ 
+te.rt_heat_generator = Радиоизотопный теплогенератор
+RTHeatGenerator.gui.name = Радиоизотопный теплогенератор
+RTHeatGenerator.gui.tooltipheat = текущая теплопередача / макс.теплопередача
+ 
+te.solid_heat_generator = Твердотельный теплогенератор
+SolidHeatGenerator.gui.name = Твердотельный теплогенератор
+SolidHeatGenerator.gui.tooltipheat = текущая теплопередача / макс.теплопередача
+ 
+te.electric_heat_generator = Электрический теплогенератор
+ElectricHeatGenerator.gui.name = Электрический теплогенератор
+ElectricHeatGenerator.gui.tooltipheat = текущая теплопередача / макс.теплопередача
+ElectricHeatGenerator.gui.hUmax = %1$s hU / %2$s hU макс.
+ElectricHeatGenerator.gui.coils = Добавьте катушки для увеличения нагрева
+
+
+#Kinetic Generators
+te.wind_kinetic_generator = Кинетический ветрогенератор
+WindKineticGenerator.gui.name = Кинетический ветрогенератор
+WindKineticGenerator.gui.rotormiss = Ошибка: Ротор отсутствует
+WindKineticGenerator.gui.rotorspace = Ошибка: Нет места для ротора
+WindKineticGenerator.gui.rotorhealth = Состояние ротора: %1$s
+WindKineticGenerator.gui.output = Выход: %1$s kU
+WindKineticGenerator.gui.windweak1 = Ветер слишком слаб для ротора
+WindKineticGenerator.gui.windweak2 = или зоны ротора перекрываются
+WindKineticGenerator.error.overload = Внимание! Ветер слишком сильный
+WindKineticGenerator.error.overload2 = повреждения ротора увеличены
+ 
+rotor_wood = Ротор ветрогенератора (Деревянный)
+rotor_iron = Ротор ветрогенератора (Железный)
+rotor_steel = Ротор ветрогенератора (Стальной)
+rotor_carbon = Ротор ветрогенератора (Углеволоконный)
+ 
+crafting.wood_rotor_blade = Деревянная лопасть ротора
+crafting.iron_rotor_blade = Железная лопасть ротора
+crafting.steel_rotor_blade = Стальная лопасть ротора
+crafting.carbon_rotor_blade = Углеволоконная лопасть ротора
+ 
+itemrotor.wind.info = Мин. требования: %1$sMCW Макс.: %2$s MCW
+itemrotor.fitsin.true = Этот ротор находится внутри коробки передач
+itemrotor.fitsin.false = Этот ротор НЕ находится внутри коробки передач
+ 
+te.steam_kinetic_generator = Кинетический парогенератор
+SteamKineticGenerator.gui.name = Кинетический парогенератор
+SteamKineticGenerator.gui.condensationwarrning = Внимание! Обнаружено замедление образования конденсата на турбине..
+SteamKineticGenerator.gui.turbineslot = Слот для паровой турбины
+SteamKineticGenerator.gui.upgradeslot = Слот для улучшения («Выталкиватель жидкости»)
+SteamKineticGenerator.gui.error.noturbine = Ошибка: Отсутствует паровая турбина
+SteamKineticGenerator.gui.error.filledupwithwater = Ошибка: Паровая турбина заблокирована
+SteamKineticGenerator.gui.aktive = Паровая турбина: Работает....
+SteamKineticGenerator.gui.waiting = Паровая турбина: Ожидание...
+SteamKineticGenerator.gui.turbine.ouput = Выход: %1$skU
+
+te.electric_kinetic_generator = Электрический кинетический генератор
+ElectricKineticGenerator.gui.name = Электрический кинетический генератор
+ElectricKineticGenerator.gui.tooltipkin = текущая передача kU / макс. передача kU
+ElectricKineticGenerator.gui.kUmax = %1$s kU / %2$s kU Макс.
+ElectricKineticGenerator.gui.motors = Добавьте моторы для увеличения выхода kU.
+
+te.manual_kinetic_generator = Ручной кинетический генератор
+
+te.water_kinetic_generator = Водяная турбина
+WaterKineticGenerator.gui.name = Водяная турбина
+WaterKineticGenerator.gui.wrongbiome1 = Работает только в биомах
+WaterKineticGenerator.gui.wrongbiome2 = "Ocean" и "River"
+WaterKineticGenerator.gui.rotormiss = Ошибка: Ротор отсутствует
+WaterKineticGenerator.gui.rotorspace = Ошибка: нет места для ротора
+WaterKineticGenerator.gui.rotorhealth = Состояние ротора: %1$s
+WaterKineticGenerator.gui.output = Выход: %1$s kU
+
+te.stirling_kinetic_generator = Кинетический генератор Стирлинга
+StirlingKineticGenerator.gui.name = Кинетический генератор Стирлинга
+
+crafting.steam_turbine = Паровая турбина
+crafting.steam_turbine_blade = Лопасть паровой турбины
+
+
+#Blocks I guess
+te.reactor_fluid_port = Реакторный насос-порт
+ReactorFluidPort.gui.name = Реакторный насос-порт
+ReactorFluidPort.gui.info = положите улучшение "Выталкиватель жидкости" для выведения горячего хладагента
+ 
+te.reactor_redstone_port = Реакторный проводник красного сигнала
+te.reactor_access_hatch = Реакторный люк
+te.magnetizer = Намагничиватель
+te.terraformer = Терраформер
+mining_pipe.pipe = Буровая труба
+blockMiningTip = Буровая труба
+rubber_wood = Древесина гевеи
+leaves.rubber = Листва гевеи
+sapling.rubber = Саженец гевеи
+te.itnt = Промышленный динамит
+te.nuke = Ядерная бомба
+sheet.rubber = Резиновый лист
+sheet.resin = Лист смолы
+sheet.wool = Лист шерсти
+te.reactor_chamber = Реакторная камера
+fence.iron = Железный забор
+glass.reinforced = Укреплённое стекло
+te.luminator_flat = Электролампа
+te.personal_chest = Личный сейф
+te.trade_o_mat = Ресурсообменник
+te.energy_o_mat = Энергообменник
+blockMetalCopper = Медный блок
+blockMetalTin = Оловянный блок
+blockMetalBronze = Бронзовый блок
+blockMetalUranium = Урановый блок
+blockMetalLead = Свинцовый блок
+ 
+blockBasalt = Базальтовый блок
+te.teleporter = Телепортер
+te.tesla_coil = Катушка Теслы
+foam.normal = Строительная пена
+foam.reinforced = Укреплённая строительная пена
+wall.black = Стена строительной пены (Чёрная)
+wall.blue = Стена строительной пены (Синяя)
+wall.brown = Стена строительной пены (Коричневая)
+wall.cyan = Стена строительной пены (Голубая)
+wall.gray = Стена строительной пены (Серая)
+wall.green = Стена строительной пены (Зелёная)
+wall.light_blue = Стена строительной пены (Светло-голубая)
+wall.light_gray = Стена строительной пены (Светло-серая)
+wall.lime = Стена строительной пены (Лаймовая)
+wall.magenta = Стена строительной пены (Пурпурная)
+wall.orange = Стена строительной пены (Оранжевая)
+wall.pink = Стена строительной пены (Розовая)
+wall.purple = Стена строительной пены (Фиолетовый)
+wall.red = Стена строительной пены (Красная)
+wall.white = Стена строительной пены (Белая)
+wall.yellow = Стена строительной пены (Жёлтая)
+scaffold.wood = Леса
+scaffold.reinforced_wood = Укреплённые леса
+scaffold.iron = Железные леса
+scaffold.reinforced_iron = Укрепленные железные леса
+blockCrop = Жёрдочки
+blockNuke = Ядерная бомба
+blockBarrel = Бочка
+
+
+# achievements
+achievement.acquireRefinedIron = Лучше, чем железо
+achievement.acquireRefinedIron.desc = Выплавьте слиток очищенного железа
+achievement.buildGenerator = Пригодная энергия
+achievement.buildGenerator.desc = Сделайте генератор
+achievement.acquireResin = Липкая ситуация
+achievement.acquireResin.desc = Соберите каучук с гевеи при помощи краника
+achievement.buildCable = Поток энергии
+achievement.buildCable.desc = Сделайте несколько проводов
+achievement.mineOre = Добытчик новых руд
+achievement.mineOre.desc = Добудьте медь, олово или уран
+achievement.buildMacerator = Двойные проблемы
+achievement.buildMacerator.desc = Сделайте дробитель
+achievement.buildCoalDiamond = Блеск
+achievement.buildCoalDiamond.desc = Сожмите угольную глыбу в алмаз
+achievement.buildElecFurnace = Очень жаркая тема
+achievement.buildElecFurnace.desc = Сделайте электрическую печку
+achievement.buildIndFurnace = Гиперскорость
+achievement.buildIndFurnace.desc = Сделайте индукционную печку
+achievement.buildBatBox = Есть где хранить
+achievement.buildBatBox.desc = Сделайте энергохранитель
+achievement.buildCompressor = Суперсжатие
+achievement.buildCompressor.desc = Сделайте компрессор
+achievement.compressUranium = Радиоактивность
+achievement.compressUranium.desc = Сожмите уран в компрессоре
+achievement.dieFromOwnNuke = Сумасшедший Иван
+achievement.dieFromOwnNuke.desc = Подорвитесь на собственном ядерном заряде
+achievement.buildExtractor = Суперкраник
+achievement.buildExtractor.desc = Постройте экстрактор
+achievement.buildChainsaw = Лесоруб-убийца
+achievement.buildChainsaw.desc = Сделайте цепную пилу
+achievement.killCreeperChainsaw = Криперская резня электропилой
+achievement.killCreeperChainsaw.desc = Убейте крипера цепной пилой
+achievement.buildDrill = Знакомьтесь, Дантист
+achievement.buildDrill.desc = Сделайте шахтёрский бур
+achievement.buildDDrill = Ценное улучшение
+achievement.buildDDrill.desc = Улучшите ваш шахтёрский бур до алмазного бура
+achievement.buildIDrill = Очень ценное улучшение
+achievement.buildIDrill.desc = Улучшите ваш алмазный бур до иридиевого бура
+achievement.buildMFE = Улучшение хранилища
+achievement.buildMFE.desc = Сделайте МФЭ
+achievement.buildMiningLaser = Время лазеров
+achievement.buildMiningLaser.desc = Сделайте шахтёрский лазер
+achievement.killDragonMiningLaser = Как Босс
+achievement.killDragonMiningLaser.desc = Убейте дракона Края шахтёрским лазером
+achievement.buildMassFab = Энергию в материю
+achievement.buildMassFab.desc = Сделайте производитель материи
+achievement.acquireMatter = Розовый сгусток
+achievement.acquireMatter.desc = Получите материю
+achievement.replicateObject = D\u00E9j\u00E0 Vu
+achievement.replicateObject.desc = Повторить что-то, используя некоторые жидкие материи и репликатор
+achievement.buildQArmor = Высокотехнологичное чудо
+achievement.buildQArmor.desc = Сделайте часть квантовой брони
+achievement.starveWithQHelmet = Смертельная забывчивость
+achievement.starveWithQHelmet.desc = Умрите от голода или утоните с квантовым шлемом
+achievement.buildMFS = Просто чересчур
+achievement.buildMFS.desc = Сделайте МФСУ
+achievement.buildTeleporter = Внутрипространственное искажение
+achievement.buildTeleporter.desc = Сделайте телепорт
+achievement.teleportFarAway = Далеко-далеко
+achievement.teleportFarAway.desc = Телепортируйтесь на расстояние не менее 1 километра
+achievement.buildTerraformer = Изменить мир
+achievement.buildTerraformer.desc = Сделайте терраформер
+achievement.terraformEndCultivation = Край как рай
+achievement.terraformEndCultivation.desc = Терраформируйте Край, чтобы он стал похож на обычный мир
+achievement.explodeMachine = Всё пошло прахом
+achievement.explodeMachine.desc = Взорвать машину с помощью неправильного напряжения
+
+
+# GUIs
+container.personalTrader.want = Нужда:
+container.personalTrader.offer = Предложение:
+container.personalTrader.totalTrades0 = Выполнено
+container.personalTrader.totalTrades1 = Торги:
+container.personalTrader.stock = В наличии:
+container.personalTraderEnergy.paidFor = Заплачено за: %1$s EU
+container.personalTraderEnergy.energyBuffer = Буфер:
+ 
+
+# creative tab
+itemGroup.IC2 = IndustrialCraft 2
+
+
+# potion effects
+potion.radiation = Радиация
+
+
+# death messages
+death.attack.electricity = %1$s был убит током
+death.attack.nuke = %1$s был убит ядерной бомбой
+death.attack.nuke.player = %1$s был убит ядерной бомбой, которую поставил %2$s
+death.attack.radiation = %1$s умер от радиации
+
+
+# tool tips
+tooltip.upgrade.overclocker.time = Уменьшает время работы до %1$s%%
+tooltip.upgrade.overclocker.power = Увеличивает энергопотребление до %1$s%%
+tooltip.upgrade.transformer = Увеличивает максимальное напряжение на %1$s ступень
+tooltip.upgrade.storage = Увеличивает энергоёмкость на %1$s EU
+tooltip.upgrade.ejector = Автоматическое извлечение с %1$s стороны
+tooltip.upgrade.ejector.anyside = первой подходящей
+tooltip.upgrade.redstone = Инвертирует текущий редстоун сигнал
+tooltip.upgrade.pulling = Автоматический ввод с %1$s стороны
+tooltip.mode = Режим: %1$s
+tooltip.mode.enabled = Включено
+tooltip.mode.disabled = Отключено
+tooltip.mode.not_in_hand = Заряжающего предмета нет в руке
+tooltip.mode.boxable = Только коробка в отключенном состоянии
+tooltip.mode.normal = Обычный
+tooltip.mode.lossless = Без потерь
+tooltip.mode.mining = Добыча
+tooltip.mode.lowFocus = Короткого фокуса
+tooltip.mode.longRange = Дальнего действия
+tooltip.mode.horizontal = Горизонтальный
+tooltip.mode.superHeat = Перегревающий
+tooltip.mode.scatter = Разброс
+tooltip.mode.explosive = Взрывоопасный
+tooltip.mode.3x3 = 3x3
+tooltip.mode.single = Одиночный
+tooltip.mode.silkTouch = Шёлковое касание
+tooltip.mode.noShear = Без стрижки
+ 
+ 
+#mouse over tool tips
+item.CrystalMemory.tooltip.Item = Предмет:
+item.CrystalMemory.tooltip.UU-Matter = Жидкая материя:
+item.CrystalMemory.tooltip.Energy = Энергия:
+item.CrystalMemory.tooltip.Empty = <Пустой>
+item.tooltip.power = Мощность
+item.tooltip.max = макс.
+item.tooltip.Output = Выход:
+item.tooltip.Capacity = Ёмкость:
+item.tooltip.Store = Хранится:
+item.tooltip.Low = Пониж.:
+item.tooltip.High = Повыш.:
+item.tooltip.PowerOutput = Выходная мощность:
+item.ItemTool.tooltip.UsesLeft = Осталось использований:
+item.FluidContainer.Empty = < Пустой >
+item.tooltip.PowerTier = Энергоуровень: %s
+item.EmptyBoozeBarrel = Пустая бочка
+item.LBoozeBarrel = Бочка с алкоголем
+
+
+#JEI Text
+jei.condenser = Будет заряжаться %.0f%%
+
+
+#Generic
+generic.text.upgrade = Совместимые улучшения:
+generic.text.UUMatte = Жидкая материя:
+generic.text.Energy = Энергия:
+generic.text.Name = Имя:
+generic.text.EU = EU
+generic.text.EUt = EU/t
+generic.text.v = V
+generic.text.mb = mB
+generic.text.bucketUnit = B
+generic.text.empty = Пусто
+generic.text.heat = нагрев:
+generic.text.Buffer = Буфер:
+generic.text.hu = Hu:
+generic.text.bufferEU = Буфер: %1$s EU
+generic.text.C = %1$s C
+generic.text.bar = %1$s бар
+generic.text.tick = /такт
+generic.text.sec = /сек
+ 
+
+# directions
+dir.top = верхней
+dir.bottom = нижней
+dir.north = северной
+dir.east = восточной
+dir.south = южной
+dir.west = западной
+
+
+#Config GUI
+config.sub.worldgen = Генерация в мире
+config.sub.worldgen.tooltip = Настройка IC2 генерации в мире.
+config.worldgen.rubberTree.tooltip = Включить генерации гевеи в мире.
+config.worldgen.copperOre.tooltip = Включить генерации меди в мире.
+config.worldgen.tinOre.tooltip = Включить генерацию олова в мире.
+config.worldgen.uraniumOre.tooltip = Включить генерацию урана в мире.
+config.worldgen.leadOre.tooltip = Включить генерацию свинца в мире.
+config.worldgen.oreDensityFactor.tooltip = Коэффицент масштаба IC2 количества генерации руды.
+config.worldgen.treeDensityFactor.tooltip = Коэффицент масштаба IC2 количества генерации деревьев.
+config.worldgen.retrogenCheckLimit.tooltip = Макс. количество чанков, чтобы проверить жизнеспособность ретроген каждом тике.\nРетроген является обратной поколению особенности рельефа, например рудами и деревьями.\nУстановить 0, чтобы отключить ретроген.
+config.worldgen.retrogenUpdateLimit.tooltip = Максимальное количество чанков в процессе retrogen каждом тике.\nЗначения, превышающие retrogenCheckLimit являются усеченными.
+config.sub.protection = Защита
+config.sub.protection.tooltip = Настройка ограничения мощности взрыва, протоколирование действий гаечным ключом и отключение ядерного взрыва
+config.protection.wrenchLogging.tooltip = Включить запись игроков, когда они снимают машину с помощью гаечного ключа.
+config.protection.nukeExplosionPowerLimit.tooltip = Максимальная мощность ядерного взрыва, где ТНТ это 4.
+config.protection.reactorExplosionPowerLimit.tooltip = Максимальная мощность взрыва ядерного реактора, где ТНТ это 4.
+config.protection.enableNuke.tooltip = Включить ядерный взрыв
+config.sub.balance = Баланс
+config.sub.balance.tooltip = Настройка баланса IC2.
+config.sub.energy = Энергия
+config.sub.energy.tooltip = Настройка баланса машин.
+config.sub.generator = EU генераторы
+config.sub.generator.tooltip = Настройка выхода EU генераторов.\nУвеличьте для повышения дохода.
+config.balance.energy.generator.generator.tooltip = Генератор выход
+config.balance.energy.generator.geothermal.tooltip = Геотермальный генератор выход
+config.balance.energy.generator.water.tooltip = [Нерекомендуется] Гидрогенератор выход
+config.balance.energy.generator.solar.tooltip = Солнечная панель выход
+config.balance.energy.generator.wind.tooltip = [Нерекомендуется] Ветрогенератор выход
+config.balance.energy.generator.nuclear.tooltip = Ядерный реактор выход
+config.balance.energy.generator.semiFluidOil.tooltip = Полужидкостный генератор выход для масла
+config.balance.energy.generator.semiFluidFuel.tooltip = Полужидкостный генератор выход для топлива
+config.balance.energy.generator.semiFluidBiomass.tooltip = Полужидкостный генератор выход для биомассы
+config.balance.energy.generator.semiFluidBioethanol.tooltip = Полужидкостный генератор выход для этанола
+config.balance.energy.generator.semiFluidBiogas.tooltip = Полужидкостный генератор выход для биогаза
+config.balance.energy.generator.Stirling.tooltip = Генератор Стирлинга выход
+config.balance.energy.generator.Kinetic.tooltip = Кинетический генератор выход
+config.balance.energy.generator.radioisotope.tooltip = Радиоизотопный термоэлектрический генератор выход
+config.sub.heatgenerator = Теплогенераторы
+config.sub.heatgenerator.tooltip = Настройка выхода HU генераторов.\nУвеличьте для повышения дохода.
+config.balance.energy.heatgenerator.semiFluidOil.tooltip = Полужидкостный генератор выход для масла
+config.balance.energy.heatgenerator.semiFluidFuel.tooltip = Полужидкостный генератор выход для топлива
+config.balance.energy.heatgenerator.semiFluidBiomass.tooltip = Полужидкостный генератор выход для биомассы
+config.balance.energy.heatgenerator.semiFluidBioethanol.tooltip = Полужидкостный генератор выход для этанола
+config.balance.energy.heatgenerator.semiFluidBiogas.tooltip = Полужидкостный генератор выход для биогаза
+config.balance.energy.heatgenerator.solid.tooltip = Твердотельный теплогенератор выход
+config.balance.energy.heatgenerator.radioisotope.tooltip = Радиоизотопный термогенератор выход
+config.balance.energy.heatgenerator.electric.tooltip = Электрический теплогенератор выход
+config.sub.kineticgenerator = Кинетические генераторы
+config.sub.kineticgenerator.tooltip = Настройка выхода KU генераторов.\nУвеличьте для повышения дохода.
+config.balance.energy.kineticgenerator.water.tooltip = Кинетический гидрогенератор выход 
+config.balance.energy.kineticgenerator.wind.tooltip = Кинетический ветрогенератор выход
+config.balance.energy.kineticgenerator.manual.tooltip = Ручной кинетический генератор выход
+config.balance.energy.kineticgenerator.steam.tooltip = Паровая турбина выход
+config.balance.energy.kineticgenerator.electric.tooltip = Электрический кинетический генератор выход
+config.sub.fluidconversion = Преобразование жидкости
+config.sub.fluidconversion.tooltip = Настройка вывода жидкости теплообменника для каждой жидкости.\nУвеличьте для повышения дохода.
+config.balance.energy.fluidconversion.heatExchangerLava.tooltip = Лава -> Базальтовая лава
+config.balance.energy.fluidconversion.heatExchangerHotCoolant.tooltip = Горячий хладагент <-> Хладагент
+config.balance.energy.fluidconversion.heatExchangerWater.tooltip = Вода горячего источника <- Вода
+config.sub.FluidReactor = Жидкости реактора
+config.sub.FluidReactor.tooltip = Настройки вывода жидкости реакторов.\nУвеличьте для повышения дохода.
+config.balance.energy.FluidReactor.outputModifier.tooltip = Базовый уровень охлаждающей жидкости выход
+config.sub.SteamKineticGenerator = Паровая турбина
+config.sub.SteamKineticGenerator.tooltip = Настройка срока эксплуатации ротора паровых турбин.
+config.balance.SteamKineticGenerator.rotorlivetime.tooltip = Срок эксплуатации ротора
+config.sub.steamgenerator = Парогенератор
+config.sub.steamgenerator.tooltip = Параметры конфигурации для парогенератора
+config.sub.calcification = Calcification
+config.sub.calcification.tooltip = Настройка максимальной кальцификации парогенератора, которое может достигать до ломки
+config.balance.steamgenerator.calcification.maxcalcification.tooltip = Максимальный лимит кальцификации, в mB воды
+config.sub.fermenter = Ферментер
+config.sub.fermenter.tooltip = Параметры конфигурации для ферментера.
+config.balance.fermenter.need_amount_biomass_per_run.tooltip = Количество биомассы, необходимое для операции
+config.balance.fermenter.output_amount_biogas_per_run.tooltip = Количество биогаза, вырабатываемого за операцию
+config.balance.fermenter.hU_per_run.tooltip = Тепло, необходимое для каждой операции
+config.balance.fermenter.biomass_per_fertilizier.tooltip = Биомасса, необходимой для каждого производства удобрении
+
+config.sub.uu-values = Конфигурация жидкой материи 
+config.sub.predefined = Предопределенные значения
+
+config.balance.minerDischargeTier.tooltip = Максимальный уровень батареи при использовании майнера.
+config.balance.teleporterUseInventoryWeight.tooltip = Увеличивающий расход энергии по весу инвентаря игрока при переходе через телепорт.
+config.balance.energyRetainedInStorageBlockDrops.tooltip = Соотношение энергии сохраняющейся внутри блоков накопленной энергии, когда откручено гаечным ключом.
+config.balance.uuEnergyFactor.tooltip = Коэффициент масштаба потребности производства жидкой материи в энергии.
+config.balance.disableEnderChest.tooltip = Отключить ванильный эндер сундук, а также удаление существующих в мире.
+config.balance.recyclerBlacklist = Утилизатор Чёрный список
+config.balance.recyclerBlacklist.tooltip = Список блоков и предметов, которые не могут быть превращены в утильсырьё с помощью утилизатора.
+config.balance.recyclerWhitelist = Утилизатор Белый список
+config.balance.recyclerWhitelist.tooltip = Белый список для блоков/предметов, разрешенных для переработки.\nБелый список будет использовать вместо подхода черного списка, если оно непустое, запрещая всё остальное.
+config.balance.ignoreWrenchRequirement.tooltip = Позволять подбирать блоки, используя только кирку вместо гаечногоключа.
+config.balance.watermillAutomation.tooltip = Позволять слоту воды из гидрогенератора быть автоматическим.
+config.sub.recipes = Рецепты
+config.sub.recipes.tooltip = Настройка IC2's рецептов и других рецептов связаннфми вещами.
+config.recipes.disable = Отключить рецепты
+config.recipes.disable.tooltip = Отключить IC2 рецепты крафта с указанным выводом.
+config.recipes.purge = Удалить рецепты
+config.recipes.purge.tooltip = Чистка крафта рецептов с указанным выходом, в том числе ванили и мод из них.
+config.recipes.allowCoinCrafting.tooltip = Включить крафтинг IC2 монет, в противном случае они должны быть порождены и тем самым ограничены.
+config.recipes.requireIc2Circuits.tooltip = Позволять только IC2 схемы для использования в IC2's рецептах.
+config.recipes.smeltToIc2Items.tooltip = Регулировка рецептов плавки всегда выводить IC2 предметы если доступны.
+config.recipes.ignoreInvalidRecipes.tooltip = Игнорировать неправильные рецепты.
+config.sub.misc = Разное
+config.sub.misc.tooltip = Общие параметры конфигурации.
+config.misc.enableIc2Audio.tooltip = Включить IC2's звуковую систему.
+config.misc.maxAudioSourceCount.tooltip = Максимальное количество активных источников звука, изменяйте его, только если вы знаете, что вы делаете.
+config.misc.hideSecretRecipes.tooltip = Включить скрытие секретных рецептов.
+config.misc.quantumSpeedOnSprint.tooltip = включить активацию квантовых поножей' повышение скорости при спринте, удерживая клавишу ускорения.
+config.misc.allowBurningScrap.tooltip = Включить сжигание утильсырья в генераторе.
+config.misc.additionalValuableOres = Добавить ценные руды
+config.misc.additionalValuableOres.tooltip = Дополнительные руды в шахтах должны быть большими.
+config.misc.useLinearTransferModel.tooltip = Использовать новый экспериментальной ток + напряжение энергии сетевой модели с потерей энергии.
+config.misc.radiationPotionID.tooltip = Зелье ID излучения зелье.

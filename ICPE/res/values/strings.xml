@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="app_version">1.2 pre-2</string>
+	<string name="agree_license">Start ICPE</string>
+	<string name="agree_user_license">I Follow the  </string>
+	<string name="user_legal">ICPE EULA</string>
+	<string name="statement_end">.</string>
+	<string name="join_us">Join us</string>
+	<string name="update">Update</string>
+	<string name="eula_developers">● Developers</string>
+	<string name="eula_licenses">● Licenses</string>
+	<string name="eula_testers">● Thanks to</string>
+	<string name="eula_eula">● EULA</string>
+	<string name="eula_eula_0">ICPE is a open-source,free software.Opened source at https://github.com/ModelPart/Industrial-Craft-PE.git</string>
+	<string name="eula_eula_1">ICPE is a free software.DO NOT sell it for the purpose of profit.</string>
+	<string name="eula_eula_2">All release-versions of ICPE is allowed to be spreaded without asking developers.DO NOT spread beta versions.</string>
+	<string name="eula_eula_3">ICPE is developed by ICPE Dev Team and MCAL Team.If some day ICPE stopped developing,you can continue to develop ICPE without asking us if it is allowed.</string>
+	<string name="eula_licenses_0">ICPE includes further libraries licensed under the Apache Software License 2.0.</string>
+	<string name="eula_licenses_1">ICPE also contains textures from Industrial-Craft-2 mod.</string>
+	<string name="eula_licenses_3">ICPE uses Cydia substrate under GNU Lesser General Public License, Version 3.</string>
+	<string name="eula_licenses_4">ICPE uses code decompiled from Minecraft ： Pocket-Edition</string>
+	<string name="eula_licenses_5">Android support -v4</string>
+	<string name="eula_licenses_6">Android support -v7</string>
+	<string name="no_qq">You haven\'t install QQ.</string>
+	<string name="download">Download</string>
+	<string name="downloadnew">Download a new version?</string>
+	<string name="availableDownload">An available new version:  </string>
+	<string name="noupdate">No available new version found.</string>
+	<string name="downloadProgress">Download progress: </string>
+	<string name="download_done">Download done</string>
+	<string name="install_now">Install now?</string>
+	<string name="install">Install</string>
+	<string name="copyright_mcal">Copyright © 2016-2017 MCAL Team</string>
+	<string name="copyright_icpedev">Copyright © 2016-2017 ICPE Dev Team</string>
+	</resources>

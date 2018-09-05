@@ -1,0 +1,928 @@
+# de_DE translation, default
+# translated by Cakestory (June 2013), updated by Vexatos (August 2013)
+# retranslated by Lanilor (July 2014), updated by Vexatos (August 2014)
+# partially updated by Marenthyu (November 2016)
+# Thanks to GeneralDevilman for his German Languagepack (1.4.7) which i took as a basis
+# GeneralDevilman´s pack: http://goo.gl/9yY9n
+
+
+#Item_Cell
+itemCellEmpty=Leere Zelle
+itemCellLava=Lavazelle
+itemCellWater=Wasserzelle
+itemCellUuMatter=Uu-Materiezelle
+itemCellCF=Bauschaumzelle
+itemCellAir=Druckluftzelle
+itemCellCoal=Hydrierte Kohlezelle
+itemCellBiomass=Biomassezelle
+itemCellCoalRef=Kohlebrennstoffzelle
+itemCellBiogas=Biogaszelle
+itemCellWaterElectro=Elektrolysierte Wasserzelle
+itemCellCoolant=Kühlzelle
+itemCellHotCoolant=Heiße Kühlzelle
+itemCellPahoehoelava=Pahoehoe-Lavazelle
+itemCellSteam=Dampfzelle
+itemCellHydrant=Bewässerungszelle
+itemCellDistilledWater=Destillierte Wasserzelle
+itemCellSuperheatedSteam=Heißdampfzelle
+itemCellSteam=Dampfzelle
+
+#Item_CrushedOre
+
+itemCrushedCopperOre=Zerstoßenes Kupfererz
+itemCrushedGoldOre=Zerstoßenes Golderz
+itemCrushedIronOre=Zerstoßenes Eisenerz
+itemCrushedTinOre=Zerstoßenes Zinnerz
+itemCrushedUranOre=Zerstoßenes Uranerz
+itemCrushedSilverOre=Zerstoßenes Silbererz
+itemCrushedLeadOre=Zerstoßenes Bleierz
+
+#Item_PurifiedCrushedOre
+
+
+itemPurifiedCrushedCopperOre=Gereinigtes zerstoßenes Kupfererz 
+itemPurifiedCrushedGoldOre=Gereinigtes zerstoßenes Golderz
+itemPurifiedCrushedIronOre=Gereinigtes zerstoßenes Eisenerz
+itemPurifiedCrushedTinOre=Gereinigtes zerstoßenes Zinnerz
+itemPurifiedCrushedUranOre=Gereinigtes zerstoßenes Uranerz
+itemPurifiedCrushedSilverOre=Gereinigtes zerstoßenes Silbererz
+itemPurifiedCrushedLeadOre=Gereinigtes zerstoßenes Bleierz
+
+#Item_Plate
+
+itemPlateBronze=Bronzeplatte
+itemPlateAdvIron=Veredelte Eisenplatte
+itemPlateCopper=Kupferplatte
+itemPlateGold=Goldplatte
+itemPlateIron=Eisenplatte
+itemPlateTin=Zinnplatte
+itemPlateLead=Bleiplatte
+itemPlateObsidian=Obsidianplatte
+itemPlateLapi=Lapislazuliplatte
+
+#Item_DensePlate
+
+itemDensePlateBronze=Dichte Bronzeplatte
+itemDensePlateAdvIron=Dichte veredelte Eisenplatte
+itemDensePlateCopper=Dichte Kupferplatte
+itemDensePlateGold=Dichte Goldplatte
+itemDensePlateIron=Dichte Eisenplatte
+itemDensePlateTin=Dichte Zinnplatte
+itemDensePlateLead=Dichte Bleiplatte
+itemDensePlateObsidian=Dichte Obsidianplatte
+itemDensePlateLapi=Dichte Lapislazuliplatte
+
+#Item_Casing
+
+itemCasingCopper=Kupfer-Itemhülle
+itemCasingTin=Zinn-Itemhülle
+itemCasingBronze=Bronze-Itemhülle
+itemCasingGold=Gold-Itemhülle
+itemCasingIron=Eisen-Itemhülle
+itemCasingAdvIron=Veredelte Eisen-Itemhülle
+itemCasingLead=Blei-Itemhülle
+
+#Item_Ingot
+
+itemIngotAdvIron=Veredelter Eisenbarren
+itemIngotCopper=Kupferbarren
+itemIngotTin=Zinnbarren
+itemIngotBronze=Bronzebarren
+itemIngotAlloy=Legierungsbarren
+itemIngotLead=Bleibarren
+itemIngotSilver=Silberbarren
+
+#Item_Dust
+
+itemDustStone=Steinstaub
+itemDustLead=Bleistaub
+itemDustObsidian=Obsidianstaub
+itemDustLapi=Lapislazulistaub
+itemDustSulfur=Schwefelstaub
+itemDustsilicondioxide=Siliziumdioxid
+itemDustdiamond=Diamantstaub
+itemDustenergium=Energiumstaub
+itemDustCoal=Kohlestaub
+itemDustIron=Eisenstaub
+itemDustGold=Goldstaub
+itemDustCopper=Kupferstaub
+itemDustTin=Zinnstaub
+itemDustBronze=Bronzestaub
+itemDustClay=Tonstaub
+itemDustSilver=Silberstaub
+
+#Item_SmallDust
+
+itemDustCopperSmall=Winziges Häufchen Kupferstaub
+itemDustGoldSmall=Winziges Häufchen Goldstaub
+itemDustTinSmall=Winziges Häufchen Zinnstaub
+itemDustSilverSmall=Winziges Häufchen Silberstaub
+itemDustLeadSmall=Winziges Häufchen Bleistaub
+itemDustSulfurSmall=Winziges Häufchen Schwefelstaub
+itemDustLithiumSmall=Winziges Häufchen Lithiumstaub
+itemDustIronSmall=Winziges Häufchen Eisenstaub
+itemDustBronzeSmall=Winziges Häufchen Bronzestaub
+itemDustLapiSmall=Winziges Häufchen of Lapislazulistaub
+itemDustObsidianSmall=Winziges Häufchen Obsidianstaub
+
+#Turning Blanks
+itemTurningBlanksWOOD = Hölzerner Drehrohling
+itemTurningBlanksIRON = Eiserner Drehrohling
+itemTurningBlanks.tooltip.blank = Rohling
+itemTurningBlanks.tooltip.43222 = Griff
+itemTurningBlanks.tooltip.54321 = Bohrer
+
+#Item_Tool
+
+itemToolDrill=Bergbaubohrer
+itemToolDDrill=Diamantkopfbohrer
+itemToolIridiumDrill=Iridiumkopfbohrer
+itemToolChainsaw=Kettensäge
+itemScanner=OD-Scanner
+itemScannerAdv=OV-Scanner
+itemScanner.found=Scan-Ergebnis:
+itemToolWrench=Schraubenschlüssel
+itemToolForgeHammer=Schmiedehammer
+itemToolHoe=Elektische Hacke
+itemToolMiningLaser=Bergbaulaser
+itemToolBronzePickaxe=Bronzespitzhacke
+itemToolBronzeAxe=Bronzeaxt
+itemToolBronzeSword=Bronzeschwert
+itemToolBronzeSpade=Bronzeschaufel
+itemToolBronzeHoe=Bronzehacke
+itemToolPainter=Farbrolle
+itemToolPainterBlack=Schwarze Farbrolle
+itemToolPainterBlue=Blaue Farbrolle
+itemToolPainterBrown=Braune Farbrolle
+itemToolPainterCloud=Hellblaue Farbrolle
+itemToolPainterCyan=Türkise Farbrolle
+itemToolPainterDarkGrey=Graue Farbrolle
+itemToolPainterGreen=Grüne Farbrolle
+itemToolPainterLightGrey=Hellgraue Farbrolle
+itemToolPainterLime=Hellgrüne Farbrolle
+itemToolPainterMagenta=Magenta Farbrolle
+itemToolPainterOrange=Orange Farbrolle
+itemToolPainterPink=Rosa Farbrolle
+itemToolPainterPurple=Violette Farbrolle
+itemToolPainterRed=Rote Farbrolle
+itemToolPainterWhite=Weiße Farbrolle
+itemToolPainterYellow=Gelbe Farbrolle
+itemToolCutter=Seitenschneider
+itemNanoSaber=Nano-Säbel
+itemTreetap=Zapfhahn
+itemFoamSprayer=Bauschaumsprüher
+itemToolWrenchElectric=Elektrischer Schraubenschlüssel
+itemTreetapElectric=Elektrischer Zapfhahn
+itemFreq=Frequenztransmitter
+debugItem=Debug Item
+obscurator=Verhüller
+itemCropnalyzer=Samenanalysierer
+windmeter=Windmeter
+itemLathingTool = Drechselwerkzeug
+
+itemToolMEter=EU-Messgerät
+itemToolMEter.mode = Modus:
+itemToolMEter.mode.EnergyIn   = EnergieIn
+itemToolMEter.mode.EnergyOut  = EnergieOut
+itemToolMEter.mode.EnergyGain = EnergieGewinn
+itemToolMEter.mode.Voltage    = Spannung
+itemToolMEter.mode.switch = Wechsle auf:
+itemToolMEter.mode.reset = Zurücksetzen
+itemToolMEter.cycle = Zyklus: %1$s sec
+itemToolMEter.avg =  Durchschn.:
+itemToolMEter.max/min = Max/Min
+
+itemMFSUupgradekit=MFSU-Upgrade-Kit
+itemMFSUupgradekit.info=Funktioniert mit MFE && Ladepad(MFE)
+
+#Item_Armor
+itemArmorJetpack=Jetpack
+itemArmorJetpackElectric=Elektisches Jetpack
+itemArmorBronzeHelmet=Bronzehelm
+itemArmorBronzeChestplate=Bronzebrustpanzer
+itemArmorBronzeLegs=Bronzebeinschutz
+itemArmorBronzeBoots=Bronzestiefel
+itemArmorLappack=Lappack
+itemArmorAdvBatpack=Fortgeschrittenes BatPack
+itemArmorEnergypack=Energypack
+itemArmorBatpack=BatPack
+itemArmorAlloyChestplate=Legierungsbrustpanzer
+itemArmorNanoHelmet=NanoSuit-Helm
+itemArmorNanoChestplate=NanoSuit-Brustpanzer
+itemArmorNanoLegs=NanoSuit-Beinschutz
+itemArmorNanoBoots=NanoSuit-Stiefel
+itemArmorQuantumHelmet=QuantumSuit-Helm
+itemArmorQuantumChestplate=QuantumSuit-Brustpanzer
+itemArmorQuantumLegs=QuantumSuit-Beinschutz
+itemArmorQuantumBoots=QuantumSuit-Stiefel
+itemArmorRubBoots=Gummistiefel
+itemArmorHazmatHelmet=Atemschutzmaske
+itemArmorHazmatChestplate=HazMat-Brustschutz
+itemArmorHazmatLeggings=HazMat-Beinschutz
+itemNightvisionGoggles=Nachtsichtgerät
+itemSolarHelmet=Solarhelm
+itemStaticBoots=Statikstiefel
+itemArmorCFPack=Bauschaum-Rucksack
+
+#Item_Cable
+
+itemCable=Isoliertes Kupferkabel
+itemCableO=Kupferkabel
+itemGoldCable=Goldkabel
+itemGoldCableI=Isoliertes Goldkabel
+itemGoldCableII=2x iso. Goldkabel
+itemIronCable=Hochspannungskabel
+itemIronCableI=Isoliertes HS-Kabel
+itemIronCableII=2x iso. HS-Kabel
+itemIronCableIIII=3x iso. HS-Kabel
+itemGlassCable=Glasfaserkabel
+itemTinCable=Zinnkabel
+itemTinCableI=Isoliertes Zinnkabel
+itemDetectorCable=EU-Detektorkabel
+itemSplitterCable=EU-Splitterkabel
+
+#Item_Upgrade
+
+overclockerUpgrade=Übertaktungsupgrade
+transformerUpgrade=Transformatorupgrade
+energyStorageUpgrade=Energiespeicherupgrade
+ejectorUpgrade=Auswurfupgrade
+fluidEjectorUpgrade=Flüssigkeits-Auswurfupgrade
+redstoneinvUpgrade=Redstone-Signalinversions-Upgrade
+
+
+#Item_Reactor
+
+reactoritem.heatwarning.line1=Kann nicht im Flüssigreaktor verwendet werden
+reactoritem.heatwarning.line2=Bitte kühle es im EU-Reaktor ab
+
+reactorCoolantSimple=10k-Kühlzelle
+reactorCoolantTriple=30k-Kühlzelle
+reactorCoolantSix=60k-Kühlzelle
+reactorPlating=Reaktorbeschichtung
+reactorPlatingHeat=Reaktorhitzeschild
+reactorPlatingExplosive=Reaktorstrahlenschild
+reactorHeatSwitch=Wärmetauscher
+reactorHeatSwitchCore=Reaktor-Wärmetauscher
+reactorHeatSwitchSpread=Komponenten-Wärmetauscher
+reactorHeatSwitchDiamond=Erweiterter Wärmetauscher
+reactorVent=Hitzeabzug
+reactorVentCore=Reaktor-Hitzeabzug
+reactorVentGold=Übertakteter Hitzeabzug
+reactorVentSpread=Komponenten-Hitzeabzug
+reactorVentDiamond=Erweiterter Hitzeabzug
+reactorReflector=Neutronenreflektor
+reactorReflectorThick=Dicker Neutronenreflektor
+reactorCondensator=RSH-Kondensator
+reactorCondensatorLap=LZH-Kondensator
+reactorUraniumSimple=Brennstab (Uran)
+reactorUraniumDual=Doppel-Brennstab (Uran)
+reactorUraniumQuad=Vierfach-Brennstab (Uran)
+reactorMOXDual=Doppel-Brennstab (MOX)
+reactorMOXQuad=Vierfach-Brennstab (MOX)
+reactorMOXSimple=Brennstab (MOX)
+reactorMOXDualdepleted=Doppel-Brennstab (Erschöpftes MOX)
+reactorMOXQuaddepleted=Vierfach-Brennstab (Erschöpftes MOX)
+reactorMOXSimpledepleted=Brennstab (Erschöpftes MOX)
+reactorUraniumDualdepleted=Doppel-Brennstab (Erschöpftes Uran)
+reactorUraniumQuaddepleted=Vierfach-Brennstab (Erschöpftes Uran)
+reactorUraniumSimpledepleted=Brennstab (Erschöpftes Uran)
+itemUran=Angereicherter Uran-Kernbrennstoff
+itemMOX=MOX-Kernbrennstoff
+itemPlutonium=Plutonium
+itemPlutoniumSmall=Kleines Häufchen Plutonium
+itemUran235=Uran-235
+itemUran235small=Kleines Häufchen Uran-235
+itemUran248=Uran-238
+itemUranPellet=Pellets mit Angereichertem Uran-Kernbrennstoff
+itemMOXPellet=Pellets mit MOX-Kernbrennstoff
+reactorLithiumCell=Brennstab (Lithium)
+itemDustLithium=Lithiumstaub
+itemTritiumCell=Brennstab (Tritium)
+itemRTGPellet=Pellets mit RTG-Brennstoff
+itemFuelRod=Brennstab (Leer)
+
+#Item_TFBP
+
+itemTFBP=TFBP - Leer
+itemTFBPCultivation=TFBP - Kultivierung
+itemTFBPIrrigation=TFBP - Bewässerung
+itemTFBPDesertification=TFBP - Wüstifizierung
+itemTFBPChilling=TFBP - Arktifizierung
+itemTFBPFlatification=TFBP - Abflachung
+itemTFBPMushroom=TFBP - Pilzifizierung
+
+#Item_random
+
+itemBatRE=RE-Batterie
+itemBatREDischarged=RE-Batterie
+itemBatSU=Einwegsbatterie
+itemBatCrystal=Energiekristall
+itemBatLamaCrystal=Lapotronkristall
+itemFuelCan=Gefüllter Treibstoffkanister
+itemFuelCanEmpty=Leerer Treibstoffkanister
+itemFuelCoalDust=Hydrierter Kohlestaub
+itemFuelCoalCmpr=Hydrierte Kohle
+itemFuelPlantBall=Pflanzenball
+itemTinCan=Konserverndose
+itemTinCanFilled=Gefüllte Konservendose
+itemIodineTablet=Iod-Tablette
+itemHarz=Kautschuk
+itemRubber=Gummi
+itemDynamite=Dynamit
+itemDynamiteSticky=Haft-Dynamit
+itemRemote=Fernzünder
+itemPartCircuit=Elektrischer Schaltkreis
+itemPartCircuitAdv=Erweiterter Schaltkreis
+itemPartAlloy=Verbesserte Legierung
+itemScrap=Schrott
+itemCoin=Industriemünze
+itemDoorAlloy=Verstärkte Tür
+itemPartCarbonFibre=Kohlefaser
+itemPartCarbonMesh=Carbongewebe
+itemPartCarbonPlate=Carbonplatte
+itemPartIridium=Iridiumverstärkte Platte
+itemScrapbox=Schrottkasten
+itemPartCoalBall=Kohleball
+itemPartCoalBlock=Gepresster Kohleball
+itemPartCoalChunk=Kohlebrocken
+itemPartIndustrialDiamond=Industrieller Diamant
+itemOreIridium=Iridiumerz
+cropSeedUn=Unbekannte Samen
+cropSeedInvalid=Seed hat fehlende Daten - Bug?
+itemFertilizer=Dünger
+boatCarbon=Kohlefaserkanu
+boatRubber=Schlauchboot
+boatRubberBroken=Beschädigtes Schlauchboot
+boatElectric=Elektrisches Boot
+itemToolbox=Werkzeugkasten
+itemTerraWart=Terrawarze
+itemCofeeBeans=Kaffeebohnen
+itemCofeePowder=Kaffepulver
+itemMugEmpty=Steinbecher
+itemMugCoffee_0=Kalter Kaffee
+itemMugCoffee_1=Dunkler Kaffee
+itemMugCoffee_2=Kaffee
+itemBiochaff=Biohäcksel
+itemHops=Hopfen
+itemGrinPowder=Giftpuder
+itemWeedEx=Pestizid
+itemCoolant=Kühlmittel
+itemheatconductor=Wärmeleiter
+itemcopperboiler=Kupferboiler
+itemPartCFPowder=Bauschaumpulver
+itemAshes=Asche
+itemPartCoil=Spule
+itemPartEleMotor=Elektrischer Motor
+itemFluidCell=Universelle Flüssigkeitszelle
+itempowerunit=Energieeinheit
+itempowerunitsmall=Kleine Energieeinheit
+itemAdvBat=Fortgeschrittene RE-Batterie
+itemrawcrystalmemory=Kristallspeicher (roh)
+itemcrystalmemory=Kristallspeicher
+itemSlag=Schlacke
+itemironshaft=Schaft (Eisen)
+itemsteelshaft=Schaft (Veredeltes Eisen)
+itemContainmentbox=Gehäusebox
+itemwindmeter.info=Windstärke: %1$s MCW
+
+#Blocks_Ore
+
+blockOreCopper=Kupfererz
+blockOreTin=Zinnerz
+blockOreUran=Uranerz
+blockOreLead=Bleierz
+
+#Blocks_Fluid
+
+fluidPahoehoeLava=Pahoehoe Lava
+fluidUuMatter=UU-Materie
+fluidConstructionFoam=Bauschaum
+fluidCoolant=IC2 Kühlmittel
+fluidHotCoolant=IC2 Heißes Kühlmittel
+fluidBiogas=Biogas
+fluidBiomass=Biomasse
+fluidDistilledWater=Destilliertes Wasser
+fluidSuperheatedSteam=Heißdampf
+fluidSteam=Dampf
+
+#Maschine
+
+blockAdvMiner=Fort. Bergbaumaschine
+AdvMiner.gui.name=Fort. Bergbaumaschine
+AdvMiner.gui.mode.blacklist=Modus: Blacklist
+AdvMiner.gui.mode.whitelist=Modus: Whitelist
+AdvMiner.gui.info.minelevel=X: %1$s Z: %2$s Y: %3$s
+AdvMiner.gui.switch.reset=Neu starten
+AdvMiner.gui.switch.mode=Modus ändern
+AdvMiner.gui.switch.silktouch=Wechsle Behutsamkeitsmodus (Aktuell: %1$s)
+
+blockCanner=Abfüllmaschine
+Canner.gui.name=Abfüllmaschine
+Canner.gui.switch.BottleSolid=Abfüllen
+Canner.gui.switch.EmptyLiquid=Leite aus Zelle in Tank
+Canner.gui.switch.BottleLiquid=Fülle Zelle aus Tank
+Canner.gui.switch.EnrichLiquid=Flüssigkeits-Anreichern (Tank oder Zelle)
+
+blockCentrifuge=Thermalzentrifuge
+Centrifuge.gui.name=Thermalzentrifuge
+
+blockCompressor=Kompressor
+Compressor.gui.name=Kompressor
+
+blockCropmatron=Crop-Matron
+Cropmatron.gui.name=Crop-Matron
+
+blockElecFurnace=Elektrischer Ofen
+ElecFurnace.gui.name=Elektrischer Ofen
+
+blockElectrolyzer=Elektolysemaschine
+Electrolyzer.gui.name=Elektolysemaschine
+
+blockExtractor=Extraktor
+Extractor.gui.name=Extraktor
+
+blockFermenter=Fermentierer
+Fermenter.gui.name=Fermentierer
+Fermenter.gui.info.conversion=Umwandlungsprozess:
+Fermenter.gui.info.waste=Abfallsammpungsprozess
+
+blockFluidBottler=Füllmaschine
+FluidBottler.gui.name=Füllmaschine
+
+blockInduction=Induktionsofen
+Induction.gui.name=Induktionsofen
+
+blockIronFurnace=Eiserner Ofen
+IronFurnace.gui.name=Eiserner Ofen
+
+blockLiquidHeatExchanger=Flüssigkeits-Wärmetauscher
+LiquidHeatExchanger.gui.name=Flüssigkeitswärmetauscher
+LiquidHeatExchanger.gui.tooltipheat=Zurzeit übertragene Hitze / max. übertragbare Hitze
+LiquidHeatExchanger.gui.tooltipvent=Füge Wärmeleiter zur schnelleren Umwandlung hinzu
+
+
+blockMacerator=Zerkleinerer
+Macerator.gui.name=Zerkleinerer
+
+blockMatter=Massefabrikator
+Matter.gui.name=Massefabrikator
+Matter.gui.info.progress=Fortschritt:
+Matter.gui.info.amplifier=Verstärkung:
+
+blockMetalFormer=Metallformer
+MetalFormer.gui.name=Metallformer
+MetalFormer.gui.switch.Extruding=Extrudieren
+MetalFormer.gui.switch.Rolling=Rollen
+MetalFormer.gui.switch.Cutting=Schneiden
+
+
+blockMiner=Bergbaumaschine
+Miner.gui.name=Bergbaumaschine
+
+blockOreWashingPlant=Erzwaschanlage
+OreWashingPlan.gui.name=Erzwaschanlage
+
+blockPatternStorage=Vorlagenspeicher
+PatternStorage.gui.name=Vorlagenspeicher
+PatternStorage.gui.info.last=Vorherige Vorlage
+PatternStorage.gui.info.next=Nächste Vorlage
+PatternStorage.gui.info.import=Von Kristall importieren
+PatternStorage.gui.info.export=In Kristall exportieren
+
+blockPump=Pumpe
+Pump.gui.name=Pumpe
+
+blockRecycler=Recycler
+Recycler.gui.name=Recycler
+
+blockReplicator=Replikator
+Replicator.gui.name=Replicator
+Replicator.gui.info.Stop=Stop
+Replicator.gui.info.single=Einzeldurchlauf
+Replicator.gui.info.repeat=Wiederholter Durchlauf
+Replicator.gui.info.last=Vorherige Vorlage
+Replicator.gui.info.next=Nächste Vorlage
+Replicator.gui.info.Waiting=Leerlauf
+
+blockScanner=Scanner
+Scanner.gui.name=Scanner
+Scanner.gui.idle=Leerlauf
+Scanner.gui.info1=Scannen
+Scanner.gui.info2=Wartend. Kein Speicher
+Scanner.gui.info3=Fehler: Energieverlust
+Scanner.gui.info4=Scan beendet
+Scanner.gui.info5=Scanergebnis
+Scanner.gui.info6=!! Fehler !!
+Scanner.gui.info7=Übertragungsfehler: Kein Speicher
+Scanner.gui.info8=Fehler: Bereits gespeichert
+Scanner.gui.button.delete=Löschen
+Scanner.gui.button.save=Speichern
+
+blockSolidCanner=Feststoff-Abfüllmaschine
+SolidCanner.gui.name=Feststoff-Abfüllmaschine
+
+blockFluidRegulator=Flüssigkeitsregulator
+FluidRegulator.gui.name=Flüssigkeitsregulator
+
+blockCondenser=Kondensierer
+Condenser.gui.name=Kondensierer
+Condenser.gui.tooltipvent=Füge Hitzeabzüge zur schnelleren Verarbeitung hinzu (%1$s EU/Vent) 
+
+blockSteamGenerator=Dampfgenerator
+SteamGenerator.gui.name=Dampfgenerator
+SteamGenerator.gui.heatInput=Input: %1$s Hu/t 
+SteamGenerator.gui.pressurevalve=%1$s Bar
+SteamGenerator.gui.systemheat=System: %1$s C
+SteamGenerator.output.water=Wasser
+SteamGenerator.output.destiwater=Destilliertes Wasser
+SteamGenerator.output.steam=Dampf
+SteamGenerator.output.hotsteam=Heißdampf
+SteamGenerator.gui.calcification=Verkalkung: %1$s
+SteamGenerator.gui.info.waterinput=Wasser-Input pro Tick
+SteamGenerator.gui.info.heatinput=Hitzeempfang pro Tick
+SteamGenerator.gui.info.pressvalve=Dampfventil
+SteamGenerator.gui.info.fluidoutput=Output:
+
+blockBlastFurnace=Hochofen
+BlastFurnace.gui.name=Hochofen
+BlastFurnace.gui.toolair=Benötigt 6 Druckluftzellen pro Durchlauf
+BlastFurnace.gui.airmiss=Verarbeitung benötigt mehr Druckluftzellen
+BlastFurnace.gui.progress=Fortschritt:
+BlastFurnace.gui.heat=Hitze:
+
+blockBlockCutter=Blockschneidemaschine
+BlockCutter.gui.name=Blockschneidemaschine
+BlockCutter.gui.bladeslot=Blockschneideklingenslot
+BlockCutter.gui.bladetoweak=Blockschneideklinge ist zu schwach oder fehlt
+
+itemIronBlockCuttingBlade=Blockschneideklinge (Eisen)
+itemAdvIronBlockCuttingBlade=Blockschneideklinge (Veredeltes Eisen)
+itemDiamondBlockCuttingBlade=Blockschneideklinge (Diamant)
+
+IronBlockCuttingBlade.info=Schneidet Materialien weicher als Eisen
+AdvIronBlockCuttingBlade.info=Schneidet Materialien weicher als Veredeltes Eisen
+DiamondBlockCuttingBlade.info=Schneidet Materialien weicher als Diamant
+
+blockSolarDestiller=Solardestillator
+SolarDestiller.gui.name=Solardestillator
+
+blockFluidDistributor=Flüssigdistributor
+
+blockSortingMachine=Elektrische Sortiermaschine
+SortingMachine.gui.name=Elektrische Sortiermaschine
+SortingMachine.default=Standard-Route
+SortingMachine.whitelist=White List
+
+#Block_Transformer 
+
+blockTransformer=Transformator
+blockTransformerLV=NS-Transformator
+blockTransformerMV=MS-Transformator
+blockTransformerHV=HS-Transformator
+blockTransformerEV=ES-Transformator
+
+Transformer.gui.switch.mode1=Redstone = Aufwärts
+Transformer.gui.switch.mode2=Fest Abwärts
+Transformer.gui.switch.mode3=Fest Aufwärts
+
+Transformer.gui.Output=Output:
+Transformer.gui.Input=Input:
+Transformer.gui.refresh= Erzwinge manuelles Neuladen (only need if no energy flow in Grid)
+
+
+#Block_EU Storage
+
+blockBatBox=BatBox
+blockMFE=MFE
+blockMFSU=MFSU
+blockCESU=CESU
+
+blockChargepadBatBox=Ladeplatte (BatBox)
+blockChargepadMFE=Ladeplatte (MFE)
+blockChargepadMFSU=Ladeplatte (MFSU)
+blockChargepadCESU=Ladeplatte (CESU)
+ 
+EUStorage.gui.mod.redstone0=Redstone-Verhalten: Nichts
+EUStorage.gui.mod.redstone1=Redstone-Verhalten: Ausgabe wenn voll
+EUStorage.gui.mod.redstone2=Redstone-Verhalten: Ausgabe wenn teilweise gefüllt
+EUStorage.gui.mod.redstone4=Redstone-Verhalten: Ausgabe wenn leer oder teilweise gefüllt
+EUStorage.gui.mod.redstone4=Redstone-Verhalten: Ausgabe wenn leer
+EUStorage.gui.mod.redstone5=Redstone-Verhalten: Verhindere Energieabgabe
+EUStorage.gui.mod.redstone6=Redstone-Verhalten: Verhindere Energieabgabe sofern nicht voll
+
+EUStorage.gui.info.armor=Rüstung
+EUStorage.gui.info.level=Energiepegel:
+EUStorage.gui.info.output=Out: %1$s EU/t
+
+
+blockChargepad.gui.mod.redstone0=Redstone-Verhalten: Ausgabe wenn aktiv
+blockChargepad.gui.mod.redstone1=Redstone-Verhalten: Ausgabe wenn inaktiv
+
+#Blocks_EU_Generator
+
+blockGenerator=Generator
+Generator.gui.name=Generator
+
+blockGeoGenerator=Geothermalgenerator
+GeoGenerator.gui.name=Geothermalgenerator
+
+blockNuclearReactor=Reaktorkern
+NuclearReactor.gui.name=Reaktorkern
+NuclearReactor.gui.info.EU=Output: %1$s EU/t   Kerntemp.: %2$s 
+NuclearReactor.gui.info.hU=Output: %1$s hU/t   Kerntemp.: %2$s 
+NuclearReactor.gui.mode.fluid=Reaktorkern in Flüssigkeitskühlmodus (EU-Output: 100%)
+NuclearReactor.gui.mode.electric=Reaktorkern im Generatormodus (EU-Output: 150%)
+
+
+
+
+blockRTGenerator=Radioisotopengenerator
+RTGenerator.gui.name=Radioisotopengenerator
+
+blockSemifluidGenerator=Semifluid-Generator
+SemifluidGenerator.gui.name=Semifluid-Generator
+
+blockSolarGenerator=Solarmodul
+SolarGenerator.gui.name=Solarmodul
+
+blockStirlingGenerator=Stirling Generator
+StirlingGenerator.gui.name=Stirling Generator
+StirlingGenerator.gui.productiontooltip=Zurzeit erhaltene Hitze / Aktuelle EU-Produktion
+
+blockWaterGenerator=Wasserkraftwerk
+WaterGenerator.gui.name=Wasserkraftwerk
+
+blockWindGenerator=Windkraftwerk
+WindGenerator.gui.name=Windkraftwerk
+
+blockKineticGenerator=Kinetik-Generator
+KineticGenerator.gui.name=Kinetik-Generator
+KineticGenerator.gui.Output=Output: %1$s EU/t
+
+
+#Blocks_heat_Generator
+
+blockFluidHeatGenerator=Flüssigkeits-Hitzegenerator
+FluidHeatGenerator.gui.name=Flüssigkeits-Hitzegenerator
+FluidHeatGenerator.gui.info.Emit=Ausstroß:
+FluidHeatGenerator.gui.info.MaxEmit=Max. Auss.:
+
+blockRTHeatGenerator=Radioisotopengen-Hitzegenerator
+RTHeatGenerator.gui.name=Radioisotopengen-Hitzegenerator
+RTHeatGenerator.gui.tooltipheat=Zurzeit übertragene Hitze / max. übertragbare Hitze
+
+
+blockSolidHeatGenerator=Feststoff-Hitzegenerator
+SolidHeatGenerator.gui.name=Feststoff-Hitzegenerator
+SolidHeatGenerator.gui.tooltipheat=Zurzeit übertragene Hitze / max. übertragbare Hitze
+
+blockElectricHeatGenerator=Elektrischer Hitzegenerator
+ElectricHeatGenerator.gui.name=Elektrischer Hitzegenerator
+ElectricHeatGenerator.gui.tooltipheat=Zurzeit übertragene Hitze / max. übertragbare Hitze
+ElectricHeatGenerator.gui.hUmax=%1$s hU / %2$s hU max.
+ElectricHeatGenerator.gui.coils=Füge Spulen zur hinzu, um den Hitzeausstoß zu erhöhen
+
+#Blocks_kinetic_Generator
+
+blockWindKineticGenerator=Kinetische Windkraftanlage
+WindKineticGenerator.gui.name=Kinetische Windkraftanlage
+WindKineticGenerator.gui.rotormiss=Fehler: Rotor fehlt
+WindKineticGenerator.gui.rotorspace=Fehler: Kein Platz für den Rotor
+WindKineticGenerator.gui.rotorhealth=Rotorhaltbarkeit: %1$s
+WindKineticGenerator.gui.output=Output: %1$s kU
+WindKineticGenerator.gui.windweak1=Wind zu schwach für den Rotor
+WindKineticGenerator.gui.windweak2=oder überlappt Rotorbereich
+WindKineticGenerator.error.overload=Warnung: Wind zu stark
+WindKineticGenerator.error.overload2=erhöhter Rotorschaden
+
+itemwoodrotor=Windkraft-Rotor (Holz)
+itemironrotor=Windkraft-Rotor (Eisen)
+itemsteelrotor=Windkraft-Rotor (Stahl)
+itemwcarbonrotor=Windkraft-Rotor (Carbon)
+
+itemwoodrotorblade=Windkraft-Rotorblatt (Holz)
+itemironrotorblade=Windkraft-Rotorblatt (Eisen)
+itemsteelrotorblade=Windkraft-Rotorblatt (Stahl)
+itemcarbonrotorblade=Windkraft-Rotorblatt (Carbon)
+
+itemrotor.wind.info =Aforderungen Min: %1$sMCW Max: %2$s MCW  
+
+
+blockSteamKineticGenerator=Kinetischer Dampfgenerator
+SteamKineticGenerator.gui.name=Kinetischer Dampfgenerator
+SteamKineticGenerator.gui.condensationwarrning=Warnung: Kondensation an der Turbine, Geschwindigkeit verringert
+SteamKineticGenerator.gui.turbineslot=Dampfturbinen-Slot
+SteamKineticGenerator.gui.upgradeslot=Upgrade Slot (Flüssigkeitsauswurf)
+SteamKineticGenerator.gui.error.noturbine=Fehler: Dampfturbine fehlt
+SteamKineticGenerator.gui.error.filledupwithwater=Fehler: Dampfturbine blockiert
+SteamKineticGenerator.gui.aktive=Dampfturbine: Arbeitet
+SteamKineticGenerator.gui.waiting=Dampfturbine: Leerlauf
+SteamKineticGenerator.gui.turbine.ouput=Output: %1$skU
+
+
+itemSteamTurbine=Dampfturbine
+itemSteamTurbineBlade=Dampfturbinenblatt
+
+# blocks
+
+blockReactorFluidPort=Reaktor-Flüssigkeitsanschluss
+ReactorFluidPort.gui.name=Reaktor-Flüssigkeitsanschluss
+ReactorFluidPort.gui.info=Platziere "Flüssigkeits-Auswurfupgrade" um heißes Kühlmittel auszupumpen
+
+blockReactorRedstonePort=Reaktor-Redstoneanschluss
+blockReactorAccessHatch=Reaktor-Zugriffsluke
+blockreactorvessel=Reaktor-Druckkessel
+blockMachine=Basis-Maschinenhülle
+blockMagnetizer=Magnetizer
+blockAdvMachine=Fortgeschrittene Maschinenhülle
+blockTerra=Terraformer
+blockMiningPipe=Bohrgestänge
+blockMiningTip=Bohrkopf
+blockRubWood=Gummibaumholz
+blockRubLeaves=Gummibaumblätter
+blockRubSapling=Gummibaumsetzling
+blockITNT=Industrielles TNT
+blockNuke=Atombombe
+blockRubber=Gummimatte
+blockReactorChamber=Reaktorkammer
+blockFenceIron=Eisenzaun
+blockAlloy=Verstärkter Stein
+blockAlloyGlass=Verstärktes Glas
+blockLuminator=Luminator
+blockLuminatorDark=Luminator
+blockPersonalChest=Tresor
+blockPersonalTrader=Tausch-O-Mat
+blockPersonalTraderEnergy=Energie-O-Mat
+blockMetalCopper=Kupferblock
+blockMetalTin=Zinnblock
+blockMetalBronze=Bronzeblock
+blockMetalUranium=Uranblock
+blockMetalLead=Bleiblock
+blockMetalAdvIron=Veredelter Eisenblock
+
+blockBasalt=Basalt
+blockTeleporter=Teleporter
+blockTesla=Teslaspule
+blockFoam=Bauschaum
+blockReinforcedFoam=Verstärkter Bauschaum
+blockScaffold=Gerüst
+blockCrop=Rankhilfe
+blockIronScaffold=Eisengerüst
+blockNuke=Atombombe
+
+
+# achievements
+achievement.acquireRefinedIron=Nicht wirklich besser als Eisen
+achievement.acquireRefinedIron.desc=Du hast gerade einen nutzlosen Barren hergestellt
+achievement.buildGenerator=Angemessene Leistung
+achievement.buildGenerator.desc=Baue einen Generator
+achievement.acquireResin=Klebrige Angelegenheit
+achievement.acquireResin.desc=Gewinne Kautschuk per Zapfhahn von einem Gummibaum
+achievement.buildCable=Ein Fluss aus Energie
+achievement.buildCable.desc=Stelle ein paar Kabel her
+achievement.mineOre=Erfahrener Bergbaumeister
+achievement.mineOre.desc=Baue Kupfer-, Zinn- und Uranerz ab
+achievement.buildMacerator=Doppeltes Disaster
+achievement.buildMacerator.desc=Baue einen Zerkleinerer
+achievement.buildCoalDiamond=Glänzend
+achievement.buildCoalDiamond.desc=Presse Kohle zu einem Diamanten
+achievement.buildElecFurnace=Auch ne heiße Schlagzeile
+achievement.buildElecFurnace.desc=Baue einen Elektrischen Ofen
+achievement.buildIndFurnace=Hyperspeed
+achievement.buildIndFurnace.desc=Baue einen Induktionsofen
+achievement.buildBatBox=Lad es auf!
+achievement.buildBatBox.desc=Baue eine BatBox
+achievement.buildCompressor=Gib mir den Drücker
+achievement.buildCompressor.desc=Baue einen Kompressor
+achievement.compressUranium=Radioaktivität
+achievement.compressUranium.desc=Presse Uran zu einem Brennstab
+achievement.dieFromOwnNuke=Verrückter Ivan
+achievement.dieFromOwnNuke.desc=Stirb an den Folgen deiner Atombombe
+achievement.buildExtractor=Frisch gezapft!
+achievement.buildExtractor.desc=Baue einen Extraktor
+achievement.buildChainsaw=Holzfäller-Attentäter
+achievement.buildChainsaw.desc=Baue eine Kettensäge
+achievement.killCreeperChainsaw=Creeper Kättensägen Massaker
+achievement.killCreeperChainsaw.desc=Zerlege einen Creeper mit einer Kettensäge
+achievement.buildDrill=Triff den Zahnarzt
+achievement.buildDrill.desc=Baue einen Bergbaubohrer
+achievement.buildDDrill=Bedeutender Fortschritt
+achievement.buildDDrill.desc=Versehe deinen Bergbaubohrer mit einem Diamantkopf
+achievement.buildMFE=Speichererweiterung
+achievement.buildMFE.desc=Baue einen MFE
+achievement.buildMiningLaser=Laserzeit
+achievement.buildMiningLaser.desc=Baue einen Bergbaulaser
+achievement.killDragonMiningLaser=Like A Boss
+achievement.killDragonMiningLaser.desc=Töte den Enderdrachen mit einem Bergbaulaser
+achievement.buildMassFab=Energie zu Materie
+achievement.buildMassFab.desc=Baue einen Massefabrikator
+achievement.acquireMatter=Rosanes Etwas
+achievement.acquireMatter.desc=Erzeuge Uu-Materie
+achievement.buildQArmor=Wunder der Technologie
+achievement.buildQArmor.desc=Baue einen Teil der QuantumSuit-Rüstung
+achievement.starveWithQHelmet=Vergessen aufzuladen
+achievement.starveWithQHelmet.desc=Verhungere oder ertrinke mit einem QuantumSuit-Helm
+achievement.buildMFS=Das ist einfach zu viel
+achievement.buildMFS.desc=Baue einen MFSU
+achievement.buildTeleporter=Intradimensionaler Sprung
+achievement.buildTeleporter.desc=Baue einen Teleporter
+achievement.teleportFarAway=Weit weit weg
+achievement.teleportFarAway.desc=Teleportiere dich mindestens 1km weit weg
+achievement.buildTerraformer=Verändere die Welt
+achievement.buildTerraformer.desc=Baue einen Terraformer
+achievement.terraformEndCultivation=Endgame Paradise
+achievement.terraformEndCultivation.desc=Terraforme das Ende damit es wie die Oberwelt aussieht
+
+# guis
+
+container.personalTrader.want=Suche:
+container.personalTrader.offer=Biete:
+container.personalTrader.totalTrades0=Ausgeführt
+container.personalTrader.totalTrades1=Handel:
+container.personalTrader.stock=Lager:
+container.personalTraderEnergy.paidFor=Bezahlt: %1$s EU
+container.personalTraderEnergy.energyBuffer=Speicher:
+
+# creative tab
+itemGroup.IC2=IndustrialCraft 2
+
+# potion effects
+potion.radiation=Verstrahlung
+
+# death messages
+death.attack.electricity=%1$s wurde gegrillt
+death.attack.nuke=%1$s wurde atomisiert
+death.attack.nuke.player=%1$s wurde von %2$s atomisiert
+death.attack.radiation=%1$s starb durch Strahlung
+
+# tool tips
+tooltip.upgrade.overclocker.time=Reduziert Fertigungsdauer auf %1$s%%
+tooltip.upgrade.overclocker.power=Erhöht Energieverbrauch auf %1$s%%
+tooltip.upgrade.transformer=Erhöht Energiestufe um %1$s
+tooltip.upgrade.storage=Erhöht Energiekapazität um %1$s EU
+tooltip.upgrade.ejector=Automatischer Auswurf zu %1$s Seite
+tooltip.upgrade.ejector.anyside=einer beliebigen validen
+tooltip.upgrade.redstone=Invertiert das aktuelle Redstone-Signal
+tooltip.mode=Modus: %1$s
+tooltip.mode.normal=Normal
+tooltip.mode.lossless=Verlustlos
+tooltip.mode.mining=Bergbau
+tooltip.mode.lowFocus=Niedrig-Fokus
+tooltip.mode.longRange=Hohe Reichweite
+tooltip.mode.horizontal=Horizontal
+tooltip.mode.superHeat=Super-Hitze
+tooltip.mode.scatter=Streuung
+tooltip.mode.explosive=Explosiv
+tooltip.mode.single=Einzeln
+tooltip.mode.silkTouch=Behutsamkeit
+tooltip.mode.noShear=Nicht scherend
+
+#mausover tool tips
+
+
+item.CrystalMemory.tooltip.Item=Item:
+item.CrystalMemory.tooltip.UU-Matter=Uu-Materie: 
+item.CrystalMemory.tooltip.Energy=Energie: 
+item.CrystalMemory.tooltip.Empty=<Leer>
+item.tooltip.power=Energie
+item.tooltip.max=max
+item.tooltip.Output=Output:
+item.tooltip.Capacity=Kapazität:
+item.tooltip.Store=Speicher:
+item.tooltip.Low=Niedrig:
+item.tooltip.High=Hoch:
+item.tooltip.PowerOutput=Energie-Output:
+item.ItemTool.tooltip.UsesLeft=Benutz. übrig:
+item.FluidContainer.Empty=<Leer>
+item.tooltip.PowerTier=Leistungsstufe:
+item.EmptyBoozeBarrel=Leeres Alkoholfass
+item.LBoozeBarrel=L. Alkoholfass
+
+
+#Generic
+
+generic.text.upgrade=Kompatible Upgrades:
+generic.text.UUMatte=UU-Materie:
+generic.text.Energy=Energie:
+generic.text.Name=Name:
+generic.text.EU=EU
+generic.text.EUt=EU/t
+generic.text.mb=mB
+generic.text.bucketUnit=B
+generic.text.heat=Hitze:
+generic.text.Buffer=Speicher:
+generic.text.hu=hU:
+generic.text.bufferEU=Speicher: %1$s EU
+generic.text.C=%1$s C 
+generic.text.bar %1$s bar
+generic.text.tick=/tick
+generic.text.sec=/sec
+
+# directions
+dir.top=Oben
+dir.bottom=Unten
+dir.north=Norden
+dir.east=Osten
+dir.south=Süden
+dir.west=Westen

@@ -1,0 +1,413 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+	xmlns:android="http://schemas.android.com/apk/res/android"
+	android:layout_width="fill_parent"
+	android:layout_height="fill_parent"
+	android:orientation="vertical">
+	
+	<ScrollView
+		android:layout_width="fill_parent"
+		android:layout_height="fill_parent"
+		android:orientation="vertical">
+
+	<LinearLayout
+		android:layout_width="fill_parent"
+		android:layout_height="fill_parent"
+		android:orientation="vertical">
+
+		<android.support.v7.widget.AppCompatTextView
+			android:layout_height="wrap_content"
+			android:textAppearance="?android:attr/textAppearanceLarge"
+			android:layout_width="match_parent"
+			android:text="@string/app_name"
+			android:gravity="center_horizontal"
+			android:layout_marginTop="10dp"
+			android:singleLine="true"/>
+
+		<android.support.v7.widget.AppCompatTextView
+			android:layout_height="wrap_content"
+			android:textAppearance="?android:attr/textAppearanceMedium"
+			android:layout_width="match_parent"
+			android:text="@string/copyright_mcal"
+			android:layout_marginTop="5dp"
+			android:gravity="center_horizontal"
+			android:singleLine="true"/>
+
+		<android.support.v7.widget.AppCompatTextView
+			android:layout_height="wrap_content"
+			android:textAppearance="?android:attr/textAppearanceMedium"
+			android:layout_width="match_parent"
+			android:text="@string/copyright_icpedev"
+			android:gravity="center_horizontal"
+			android:singleLine="true"/>
+
+		<View
+			android:layout_height="1dp"
+			android:layout_width="match_parent"
+			android:layout_marginTop="5dp"
+			android:layout_marginBottom="5dp"
+			android:layout_marginLeft="10dp"
+			android:layout_marginRight="10dp"
+			android:background="#B8B8B8"/>
+
+		<LinearLayout
+			android:layout_width="match_parent"
+			android:layout_height="wrap_content"
+			android:orientation="vertical"
+			android:layout_marginLeft="10dp"
+			android:layout_marginRight="10dp">
+
+			<android.support.v7.widget.AppCompatTextView
+				android:layout_height="wrap_content"
+				android:layout_width="match_parent"
+				android:text="@string/eula_licenses"
+				android:textAppearance="?android:attr/textAppearanceMedium"
+				android:gravity="left"
+				android:singleLine="true"
+				android:layout_marginBottom="5dp"/>
+
+			<android.support.v7.widget.AppCompatTextView
+				android:layout_height="wrap_content"
+				android:textAppearance="?android:attr/textAppearanceSmall"
+				android:layout_width="match_parent"
+				android:layout_marginLeft="10dp"
+				android:text="@string/eula_licenses_0"
+				android:gravity="left"/>
+
+			<android.support.v7.widget.AppCompatTextView
+				android:layout_height="wrap_content"
+				android:textAppearance="?android:attr/textAppearanceSmall"
+				android:layout_width="match_parent"
+				android:text="@string/eula_licenses_5"
+				android:singleLine="true"
+				android:layout_marginLeft="20dp"
+				android:gravity="left"/>
+
+			<android.support.v7.widget.AppCompatTextView
+				android:layout_height="wrap_content"
+				android:textAppearance="?android:attr/textAppearanceSmall"
+				android:layout_width="match_parent"
+				android:text="@string/eula_licenses_6"
+				android:layout_marginLeft="20dp"
+				android:singleLine="true"
+				android:gravity="left"/>
+
+			<android.support.v7.widget.AppCompatTextView
+				android:layout_height="wrap_content"
+				android:textAppearance="?android:attr/textAppearanceSmall"
+				android:layout_width="match_parent"
+				android:text="@string/eula_licenses_1"
+				android:gravity="left"
+				android:layout_marginLeft="10dp"
+				android:layout_marginTop="5dp"/>
+			
+			<android.support.v7.widget.AppCompatTextView
+				android:layout_marginLeft="10dp"
+				android:layout_marginTop="5dp"
+				android:layout_height="wrap_content"
+				android:textAppearance="?android:attr/textAppearanceSmall"
+				android:layout_width="match_parent"
+				android:text="@string/eula_licenses_3"
+				android:gravity="left"/>
+			
+			<android.support.v7.widget.AppCompatTextView
+				android:layout_marginTop="5dp"
+				android:layout_height="wrap_content"
+				android:layout_marginLeft="10dp"
+				android:textAppearance="?android:attr/textAppearanceSmall"
+				android:layout_width="match_parent"
+				android:text="@string/eula_licenses_4"
+				android:gravity="left"/>
+
+		</LinearLayout>
+		
+		<View
+			android:layout_height="1dp"
+			android:layout_width="match_parent"
+			android:layout_marginTop="5dp"
+			android:layout_marginBottom="5dp"
+			android:layout_marginLeft="10dp"
+			android:layout_marginRight="10dp"
+			android:background="#B8B8B8"/>
+
+		<LinearLayout
+			android:layout_width="match_parent"
+			android:layout_height="wrap_content"
+			android:orientation="vertical"
+			android:layout_marginLeft="10dp"
+			android:layout_marginRight="10dp">
+
+			<android.support.v7.widget.AppCompatTextView
+				android:layout_height="wrap_content"
+				android:layout_width="match_parent"
+				android:text="@string/eula_developers"
+				android:singleLine="true"
+				android:textAppearance="?android:attr/textAppearanceMedium"
+				android:gravity="left"
+				android:layout_marginBottom="5dp"/>
+
+			<android.support.v7.widget.AppCompatTextView
+				android:layout_height="wrap_content"
+				android:textAppearance="?android:attr/textAppearanceSmall"
+				android:layout_width="match_parent"
+				android:text="ModelPart"
+				android:singleLine="true"
+				android:layout_marginLeft="10dp"
+				android:gravity="left"/>
+
+			<android.support.v7.widget.AppCompatTextView
+				android:layout_height="wrap_content"
+				android:textAppearance="?android:attr/textAppearanceSmall"
+				android:layout_width="match_parent"
+				android:singleLine="true"
+				android:text="int100"
+				android:layout_marginLeft="10dp"
+				android:gravity="left"/>
+
+			<android.support.v7.widget.AppCompatTextView
+				android:layout_height="wrap_content"
+				android:textAppearance="?android:attr/textAppearanceSmall"
+				android:layout_width="match_parent"
+				android:text="快乐"
+				android:singleLine="true"
+				android:layout_marginLeft="10dp"
+				android:gravity="left"/>
+
+		</LinearLayout>
+		
+		<View
+			android:layout_height="1dp"
+			android:layout_width="match_parent"
+			android:layout_marginTop="5dp"
+			android:layout_marginBottom="5dp"
+			android:layout_marginLeft="10dp"
+			android:layout_marginRight="10dp"
+			android:background="#B8B8B8"/>
+
+		<LinearLayout
+			android:layout_width="match_parent"
+			android:layout_height="wrap_content"
+			android:orientation="vertical"
+			android:layout_marginLeft="10dp"
+			android:layout_marginRight="10dp">
+
+			<android.support.v7.widget.AppCompatTextView
+				android:layout_height="wrap_content"
+				android:layout_width="match_parent"
+				android:text="@string/eula_testers"
+				android:singleLine="true"
+				android:textAppearance="?android:attr/textAppearanceMedium"
+				android:gravity="left"
+				android:layout_marginBottom="5dp"/>
+
+			<android.support.v7.widget.AppCompatTextView
+				android:layout_height="wrap_content"
+				android:textAppearance="?android:attr/textAppearanceSmall"
+				android:layout_width="match_parent"
+				android:text="Why为什么222"
+				android:singleLine="true"
+				android:layout_marginLeft="10dp"
+				android:gravity="left"/>
+
+			<android.support.v7.widget.AppCompatTextView
+				android:layout_height="wrap_content"
+				android:textAppearance="?android:attr/textAppearanceSmall"
+				android:layout_width="match_parent"
+				android:singleLine="true"
+				android:text="ゞ 俄旳执著伱卜"
+				android:layout_marginLeft="10dp"
+				android:gravity="left"/>
+
+			<android.support.v7.widget.AppCompatTextView
+				android:layout_height="wrap_content"
+				android:textAppearance="?android:attr/textAppearanceSmall"
+				android:layout_width="match_parent"
+				android:text="振博"
+				android:singleLine="true"
+				android:layout_marginLeft="10dp"
+				android:gravity="left"/>
+			
+			<android.support.v7.widget.AppCompatTextView
+				android:layout_height="wrap_content"
+				android:textAppearance="?android:attr/textAppearanceSmall"
+				android:layout_width="match_parent"
+				android:text="浅忆︿梦微凉”"
+				android:singleLine="true"
+				android:layout_marginLeft="10dp"
+				android:gravity="left"/>
+			
+			<android.support.v7.widget.AppCompatTextView
+				android:layout_height="wrap_content"
+				android:textAppearance="?android:attr/textAppearanceSmall"
+				android:layout_width="match_parent"
+				android:text="非我非非我”"
+				android:singleLine="true"
+				android:layout_marginLeft="10dp"
+				android:gravity="left"/>
+			
+			<android.support.v7.widget.AppCompatTextView
+				android:layout_height="wrap_content"
+				android:textAppearance="?android:attr/textAppearanceSmall"
+				android:layout_width="match_parent"
+				android:text="IVring Fazin"
+				android:singleLine="true"
+				android:layout_marginLeft="10dp"
+				android:gravity="left"/>
+			
+			<android.support.v7.widget.AppCompatTextView
+				android:layout_height="wrap_content"
+				android:textAppearance="?android:attr/textAppearanceSmall"
+				android:layout_width="match_parent"
+				android:text="一个废人."
+				android:singleLine="true"
+				android:layout_marginLeft="10dp"
+				android:gravity="left"/>
+			
+			<android.support.v7.widget.AppCompatTextView
+				android:layout_height="wrap_content"
+				android:textAppearance="?android:attr/textAppearanceSmall"
+				android:layout_width="match_parent"
+				android:text="迪莫队长"
+				android:singleLine="true"
+				android:layout_marginLeft="10dp"
+				android:gravity="left"/>
+			
+			<android.support.v7.widget.AppCompatTextView
+				android:layout_height="wrap_content"
+				android:textAppearance="?android:attr/textAppearanceSmall"
+				android:layout_width="match_parent"
+				android:text="砍树🍂落叶"
+				android:singleLine="true"
+				android:layout_marginLeft="10dp"
+				android:gravity="left"/>
+			
+			<android.support.v7.widget.AppCompatTextView
+				android:layout_height="wrap_content"
+				android:textAppearance="?android:attr/textAppearanceSmall"
+				android:layout_width="match_parent"
+				android:text="Vigorously Piston"
+				android:singleLine="true"
+				android:layout_marginLeft="10dp"
+				android:gravity="left"/>
+			
+			<android.support.v7.widget.AppCompatTextView
+				android:layout_height="wrap_content"
+				android:textAppearance="?android:attr/textAppearanceSmall"
+				android:layout_width="match_parent"
+				android:text="Fernand73798076"
+				android:singleLine="true"
+				android:layout_marginLeft="10dp"
+				android:gravity="left"/>
+			
+			<android.support.v7.widget.AppCompatTextView
+				android:layout_height="wrap_content"
+				android:textAppearance="?android:attr/textAppearanceSmall"
+				android:layout_width="match_parent"
+				android:text="振博"
+				android:singleLine="true"
+				android:layout_marginLeft="10dp"
+				android:gravity="left"/> 
+			
+			<android.support.v7.widget.AppCompatTextView
+				android:layout_height="wrap_content"
+				android:textAppearance="?android:attr/textAppearanceSmall"
+				android:layout_width="match_parent"
+				android:text="1003917294"
+				android:singleLine="true"
+				android:layout_marginLeft="10dp"
+				android:gravity="left"/>
+			
+			<android.support.v7.widget.AppCompatTextView
+				android:layout_height="wrap_content"
+				android:textAppearance="?android:attr/textAppearanceSmall"
+				android:layout_width="match_parent"
+				android:text="KOKIC"
+				android:singleLine="true"
+				android:layout_marginLeft="10dp"
+				android:gravity="left"/>
+			
+			<android.support.v7.widget.AppCompatTextView
+				android:layout_height="wrap_content"
+				android:textAppearance="?android:attr/textAppearanceSmall"
+				android:layout_width="match_parent"
+				android:text="enjoywitter"
+				android:singleLine="true"
+				android:layout_marginLeft="10dp"
+				android:gravity="left"/>
+			
+			<android.support.v7.widget.AppCompatTextView
+				android:layout_height="wrap_content"
+				android:textAppearance="?android:attr/textAppearanceSmall"
+				android:layout_width="match_parent"
+				android:text="金苹果 GA"
+				android:singleLine="true"
+				android:layout_marginLeft="10dp"
+				android:gravity="left"/>
+
+		</LinearLayout>
+		
+		<View
+			android:layout_height="1dp"
+			android:layout_width="match_parent"
+			android:layout_marginTop="5dp"
+			android:layout_marginBottom="5dp"
+			android:layout_marginLeft="10dp"
+			android:layout_marginRight="10dp"
+			android:background="#B8B8B8"/>
+		
+		<LinearLayout
+			android:layout_width="match_parent"
+			android:layout_height="wrap_content"
+			android:orientation="vertical"
+			android:layout_marginLeft="10dp"
+			android:layout_marginRight="10dp">
+
+			<android.support.v7.widget.AppCompatTextView
+				android:layout_height="wrap_content"
+				android:layout_width="match_parent"
+				android:text="@string/eula_eula"
+				android:singleLine="true"
+				android:textAppearance="?android:attr/textAppearanceMedium"
+				android:gravity="left"
+				android:layout_marginBottom="5dp"/>
+
+			<android.support.v7.widget.AppCompatTextView
+				android:layout_height="wrap_content"
+				android:textAppearance="?android:attr/textAppearanceSmall"
+				android:layout_width="match_parent"
+				android:text="@string/eula_eula_0"
+				android:layout_marginLeft="10dp"
+				android:gravity="left"/>
+
+			<android.support.v7.widget.AppCompatTextView
+				android:layout_height="wrap_content"
+				android:textAppearance="?android:attr/textAppearanceSmall"
+				android:layout_width="match_parent"
+				android:text="@string/eula_eula_1"
+				android:layout_marginLeft="10dp"
+				android:gravity="left"/>
+
+			<android.support.v7.widget.AppCompatTextView
+				android:layout_height="wrap_content"
+				android:textAppearance="?android:attr/textAppearanceSmall"
+				android:layout_width="match_parent"
+				android:text="@string/eula_eula_2"
+				android:layout_marginLeft="10dp"
+				android:gravity="left"/>
+			
+			<android.support.v7.widget.AppCompatTextView
+				android:layout_height="wrap_content"
+				android:textAppearance="?android:attr/textAppearanceSmall"
+				android:layout_width="match_parent"
+				android:text="@string/eula_eula_3"
+				android:layout_marginLeft="10dp"
+				android:gravity="left"/>
+
+		</LinearLayout>
+
+	</LinearLayout>
+	
+	</ScrollView>
+
+</LinearLayout>
+

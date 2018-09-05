@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="app_name">工业携带版</string>
+	<string name="agree_license">打开ICPE</string>
+	<string name="agree_user_license">我同意并遵守  </string>
+	<string name="user_legal">最终用户许可协议</string>
+	<string name="join_us">加入我们</string>
+	<string name="update">更新</string>
+	<string name="download">下载</string>
+	<string name="downloadnew">下载新版本?</string>
+	<string name="availableDownload">新的可用更新:  </string>
+	<string name="noupdate">未发现新版本。</string>
+	<string name="download_done">下载完成</string>
+	<string name="install_now">现在安装？</string>
+	<string name="install">安装</string>
+	<string name="eula_developers">● 开发者</string>
+	<string name="eula_licenses">● 开放源代码许可</string>
+	<string name="eula_testers">● 感谢</string>
+	<string name="eula_eula">● 最终用户许可协议</string>
+	<string name="eula_eula_0">ICPE是一个开放源代码，免费的软件。源代码见https://github.com/ModelPart/Industrial-Craft-PE.git</string>
+	<string name="eula_eula_1">ICPE是一个免费的软件。禁止以商业盈利目的出售它。</string>
+	<string name="eula_eula_2">ICPE所有的正式版都允许转载到任何地方。禁止转载测试版。</string>
+	<string name="eula_eula_3">ICPE由ICPE Dev Team与MCAL Team开发。如果有一天停止开发，你可以在不用询问我们的情况下继续开发ICPE。</string>
+	<string name="eula_licenses_0">ICPE包含了在Apache Software License 2.0证件下的工程库：</string>
+	<string name="eula_licenses_1">ICPE也包含了来自于Industrial-Craft-2(工业2)模组的资源文件。</string>
+	<string name="eula_licenses_3">ICPE使用了Cydia Subdtrate库，在证件GNU Lesser General Public License, Version 3允许下。</string>
+	<string name="eula_licenses_4">ICPE使用了反编译Minecraft : Pocket-Edition 得到的部分代码</string>
+	<string name="eula_licenses_5">Android support -v4</string>
+	<string name="eula_licenses_6">Android support -v7</string>
+</resources>
