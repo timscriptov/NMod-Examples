@@ -54,7 +54,7 @@ bool TerrainPlus::useItem(ItemInstance*self,Player&targetPlayer)
 	if(!isEditing && self && self->getId() == ItemInstance(*Item::mSlimeBall).getId())
 	{
 		//Push menu screen
-		if(mMinecraftGame->getScreen()->getScreenName()!="menu_screen")
+		if(mMinecraftGame->getScreen()->getScreenName()!="menu_screen")//menu_screen
 		{
 			ScreenChooser* chooser = mMinecraftGame->getScreenChooser();
 			chooser->_pushScreen(std::make_shared<BiomeEditScreen>(*mMinecraftGame,*mMinecraftGame->getPrimaryClientInstance(),mTargetBiome),false);

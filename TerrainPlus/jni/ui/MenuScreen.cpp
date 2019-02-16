@@ -25,7 +25,7 @@ void MenuScreen::render(int int1, int int2, float f)
 }
 std::string MenuScreen::getScreenName() const
 {
-	return "menu_screen";
+	return "menu_screen";//menu_screen
 }
 void MenuScreen::init()
 {
@@ -34,7 +34,7 @@ void MenuScreen::init()
 	tabElementList.push_back(mDarkBackground);
 	
 	mBackground = std::make_shared<GuiElement>(false,false,0,0,0,0);
-	mBackground->setBackground(mcGame,"textures/gui/newgui/NormalButtonNoStroke",{0,0,10,10},4,4);
+	mBackground->setBackground(mcGame,"resource_packs/vanilla/textures/gui/newgui/NormalButtonNoStroke",{0,0,10,10},4,4);
 	tabElementList.push_back(mBackground);
 	
 	mCloseButton = std::make_shared<CloseButton>(5225);

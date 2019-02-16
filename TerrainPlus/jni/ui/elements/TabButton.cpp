@@ -12,7 +12,7 @@ TabButton::TabButton(int id,std::string const&msg)
 }
 void TabButton::render(MinecraftGame*game, int i1, int i2)
 {
-	mView -> setBackground(game,pressed?"textures/gui/newgui/ButtonWithBorderPressed":"textures/gui/newgui/ButtonWithBorder",{0,0,6,6},2,2);
+	mView -> setBackground(game,pressed?"resource_packs/vanilla/textures/gui/newgui/ButtonWithBorderPressed":"resource_packs/vanilla/textures/gui/newgui/ButtonWithBorder",{0,0,6,6},2,2);
 	mView -> xPosition = xPosition;
 	mView -> yPosition = yPosition;
 	mView -> width = width;

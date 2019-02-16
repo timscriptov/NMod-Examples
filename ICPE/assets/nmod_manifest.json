@@ -1,107 +1,93 @@
 {
-  "name" : "Industrial Craft",
-  
-  "package_name" : "com.mcal.icpe",
-  
-  "author" : "Тимашков Иван",
-  
-  "native_libs_info" :
-  [
-    {
-      "name" : "libcustom_block.so",
-      "use_api" : "true"
-    }
-    ],
-    
-  "version_code" : 1,
-  
-  "version_name" : "1.0",
-  
-  "description" : "description ",
-  
-  "change_log" : "change_log",
-  
-  "banner_title" : "banner_title",
-  
-  "banner_image_path" : "banner.png",
-  
-  "text_edit" :
-   [
-     {
-       "path" : "lang_icpe/zh_CN-icpe.lang"
-       "mode" : "append"
-     },
-     {
-       "path" : "lang_icpe/zh_TW-icpe.lang"
-       "mode" : "append"
-     },
-     {
-       "path" : "lang_icpe/de_DE-icpe.lang"
-       "mode" : "append"
-     },
-     {
-       "path" : "lang_icpe/en_GB-icpe.lang"
-       "mode" : "append"
-     },
-     {
-       "path" : "lang_icpe/en_US-icpe.lang"
-       "mode" : "append"
-     },
-     {
-       "path" : "lang_icpe/en_IC-icpe.lang"
-       "mode" : "append"
-     },
-     {
-       "path" : "lang_icpe/es_AR-icpe.lang"
-       "mode" : "append"
-     },
-     {
-       "path" : "lang_icpe/es_ES-icpe.lang"
-       "mode" : "append"
-     },
-     {
-       "path" : "lang_icpe/es_MX-icpe.lang"
-       "mode" : "append"
-     },
-     {
-       "path" : "lang_icpe/es_UY-icpe.lang"
-       "mode" : "append"
-     },
-     {
-       "path" : "lang_icpe/es_VE-icpe.lang"
-       "mode" : "append"
-     },
-     {
-       "path" : "lang_icpe/fr_FR-icpe.lang"
-       "mode" : "append"
-     },
-     {
-       "path" : "lang_icpe/it_IT-icpe.lang"
-       "mode" : "append"
-     },
-     {
-       "path" : "lang_icpe/ko_KR-icpe.lang"
-       "mode" : "append"
-     },
-     {
-       "path" : "lang_icpe/pt_BR-icpe.lang"
-       "mode" : "append"
-     },
-     {
-       "path" : "lang_icpe/pt_PT-icpe.lang"
-       "mode" : "append"
-     },
-     {
-       "path" : "lang_icpe/ru_RU-icpe.lang"
-       "mode" : "append"
-     },
-     {
-       "path" : "lang_icpe/sv_SE-icpe.lang"
-       "mode" : "append"
-     },
-     {
-       "path" : "lang_icpe/tr_TR-icpe.lang"
-       "mode" : "append"
-     },
-   ]
+	"name" : "Industrial Craft",
+	"package_name" : "com.mcal.icpe",
+	"author" : "ModelPart",
+	"native_libs_info" :
+	[{
+		"name" : "libcustom_block.so",
+		"use_api" : "true"
+	}],
+	"version_code" : 1,
+	"version_name" : "1.0",
+	"description" : "description ",
+	"change_log" : "change_log",
+	"banner_title" : "banner_title",
+	"banner_image_path" : "banner.png",
+	"text_edit" :
+	[{
+		"path" : "lang_icpe/zh_CN-icpe.lang"
+		"mode" : "append"
+	},
+	{
+		"path" : "lang_icpe/zh_TW-icpe.lang"
+		"mode" : "append"
+	},
+	{
+		"path" : "lang_icpe/de_DE-icpe.lang"
+		"mode" : "append"
+	},
+	{
+		"path" : "lang_icpe/en_GB-icpe.lang"
+		"mode" : "append"
+	},
+	{
+		"path" : "lang_icpe/en_US-icpe.lang"
+		"mode" : "append"
+	},
+	{
+		"path" : "lang_icpe/en_IC-icpe.lang"
+		"mode" : "append"
+	},
+	{
+		"path" : "lang_icpe/es_AR-icpe.lang"
+		"mode" : "append"
+	},
+	{
+		"path" : "lang_icpe/es_ES-icpe.lang"
+		"mode" : "append"
+	},
+	{
+		"path" : "lang_icpe/es_MX-icpe.lang"
+		"mode" : "append"
+	},
+	{
+		"path" : "lang_icpe/es_UY-icpe.lang"
+		"mode" : "append"
+	},
+	{
+		"path" : "lang_icpe/es_VE-icpe.lang"
+		"mode" : "append"
+	},
+	{
+		"path" : "lang_icpe/fr_FR-icpe.lang"
+		"mode" : "append"
+	},
+	{
+		"path" : "lang_icpe/it_IT-icpe.lang"
+		"mode" : "append"
+	},
+	{
+		"path" : "lang_icpe/ko_KR-icpe.lang"
+		"mode" : "append"
+	},
+	{
+		"path" : "lang_icpe/pt_BR-icpe.lang"
+		"mode" : "append"
+	},
+	{
+		"path" : "lang_icpe/pt_PT-icpe.lang"
+		"mode" : "append"
+	},
+	{
+		"path" : "lang_icpe/ru_RU-icpe.lang"
+		"mode" : "append"
+	},
+	{
+		"path" : "lang_icpe/sv_SE-icpe.lang"
+		"mode" : "append"
+	},
+	{
+		"path" : "lang_icpe/tr_TR-icpe.lang"
+		"mode" : "append"
+	}]
 }

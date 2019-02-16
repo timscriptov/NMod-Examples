@@ -9,7 +9,7 @@ CloseButton::CloseButton(int id)
 }
 void CloseButton::render(MinecraftGame*game, int i1, int i2)
 {
-	mXView -> setBackground(game,pressed?"textures/gui/newgui/XPress":"textures/gui/newgui/X",{0,0,16,16},0,0);
+	mXView -> setBackground(game,pressed?"resource_packs/vanilla/textures/gui/newgui/XPress":"resource_packs/vanilla/textures/gui/newgui/X",{0,0,16,16},0,0);
 	mXView -> xPosition = xPosition;
 	mXView -> yPosition = yPosition;
 	mXView -> width = width;

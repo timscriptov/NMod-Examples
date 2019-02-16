@@ -1,4 +1,4 @@
-# Industrial Craft: Pocket-Edition
+# Industrial Craft Pocket Edition
 Industrial Craft in MCPE.
 ## How to build
 1. Add AppCompat, ModdedPE library to project.

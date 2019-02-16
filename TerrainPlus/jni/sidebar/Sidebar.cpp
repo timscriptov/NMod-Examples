@@ -37,7 +37,7 @@ Sidebar::Sidebar(MinecraftGame&game,int yPosition,int width,int height,std::stri
 	mBackground->yPosition = mYPosition;
 	mBackground->width = width;
 	mBackground->height = height;
-	mBackground->setBackground(&game,"textures/gui/greyBorder",IntRectangle{0,0,16,16},4,4);
+	mBackground->setBackground(&game,"resource_pack/vanilla/textures/gui/greyBorder",IntRectangle{0,0,16,16},4,4);
 }
 void Sidebar::show()
 {

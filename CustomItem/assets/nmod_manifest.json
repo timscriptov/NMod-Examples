@@ -1,40 +1,25 @@
 {
-  "name" : "CustomItem",
-  
-  "package_name" : "com.mcal.customitem",
-  
-  "author" : "Тимашков Иван",
-  
-  "native_libs_info" :
-  [
-    {
-      "name" : "libcustom_item.so",
-      "use_api" : "true"
-    }
-    ],
-    
-  "version_code" : 1,
-  
-  "version_name" : "1.0",
-  
-  "description" : "description ",
-  
-  "change_log" : "change_log",
-  
-  "banner_title" : "banner_title",
-  
-  "banner_image_path" : "banner.png",
-  
-  "text_edit" :
-  [
-    {
-      "path" : "resource_packs/vanilla/texts/zh_CN.lang",
-      "mode" : "append"
-    },
-    {
-      "path" : "resource_packs/vanilla/texts/en_US.lang",
-      "mode" : "append"
-    },
-  ]
+	"name" : "CustomItem",
+	"package_name" : "com.mcal.customitem",
+	"author" : "Тимашков Иван",
+	"native_libs_info" :
+	[{
+		"name" : "libcustom_item.so",
+		"use_api" : "true"
+	}],
+	"version_code" : 1,
+	"version_name" : "1.0",
+	"description" : "description ",
+	"change_log" : "change_log",
+	"banner_title" : "banner_title",
+	"banner_image_path" : "banner.png",
+	"text_edit" :
+	[{
+		"path" : "resource_packs/vanilla/texts/zh_CN.lang",
+		"mode" : "append"
+	},
+	{
+		"path" : "resource_packs/vanilla/texts/en_US.lang",
+		"mode" : "append"
+	}]
 }
-

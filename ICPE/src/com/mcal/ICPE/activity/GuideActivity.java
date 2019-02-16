@@ -9,7 +9,7 @@ import android.view.*;
 import android.widget.*;
 import com.mcal.ICPE.R;
 import android.preference.*;
-import com.mcal.moddedpe.*;
+import com.mcal.mcpelauncher.*;
 
 public class GuideActivity extends Activity
 	{
@@ -113,7 +113,7 @@ public class GuideActivity extends Activity
 						try
 							{
 								ModdedPEApplication.instance.init ( );
-								com.mcal.ModdedPE.ModdedPEApplication.instance.startLauncher ( GuideActivity.this );
+								com.mcal.mcpelauncher.ModdedPEApplication.instance.startLauncher ( GuideActivity.this );
 								finish ( );
 							}
 						catch (Exception e)
