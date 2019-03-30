@@ -1,18 +1,56 @@
 {
+	//NMod name.
 	"name" : "Industrial Craft",
+	
+	//NMod package name. Must equal to package name defines in AndroidManifest.xm
 	"package_name" : "com.mcal.icpe",
+	
+	//Author of your NMod. Write your name or your organization name here.
 	"author" : "ModelPart",
 	"native_libs_info" :
 	[{
+		//native library name:
 		"name" : "libcustom_block.so",
+		
+		//whether the nmod uses nmodapi:
 		"use_api" : "true"
 	}],
+	
+	//You can even load more libraries...
+	//,
+	//{
+	//	"name" : "libnmod2.so",
+	//	"use_api" : false
+	//}],
+	
+	//Version Code:
+	//Default value is -1.
 	"version_code" : 1,
+	
+	//Version Name:
 	"version_name" : "1.0",
-	"description" : "description ",
+	
+	//Mimecraft version Name:
+	"minecraft_version_name" : "1.0",
+	
+	//Nmod description:
+	"description" : "description",
+	
+	//What's new in this version? Write them in change_log.
 	"change_log" : "change_log",
-	"banner_title" : "banner_title",
+	
+	//NMod Banner
+	//NMod Banner is a image view showed in main page.
+	
+	//Banner title is a text view under the image. It's default value is NMod name.
+	"banner_title" : "Edit your biomes!",
+	
+	//The file path of banner image in assets.
+	//The image must be the size of 1024(width)*500(height)!
 	"banner_image_path" : "banner.png",
+	
+	//Assest Text Edit API
+	//Text edit can edit text files in minecraftpe assets.
 	"text_edit" :
 	[{
 		"path" : "lang_icpe/zh_CN-icpe.lang"

@@ -32,6 +32,9 @@
 	//Version Name:
 	"version_name" : "1.0",
 	
+	//Mimecraft version Name:
+	"minecraft_version_name" : "1.0",
+	
 	//Nmod description:
 	"description" : "description",
 	
