@@ -1,0 +1,38 @@
+{
+  "name" : "Shiny Apple",
+  
+  "package_name" : "com.masterone123.shinyapple",
+  
+  "author" : "masterone123",
+  
+  "native_libs_info" :
+  [
+    {
+      "name" : "libshinyapple.so",
+      "use_api" : "false"
+    }
+  ],
+  
+  "version_code" : 1,
+  
+  "version_name" : "1.0",
+  
+  //Minecraft version Name:
+  "minecraft_version_name" : "1.2",
+  
+  "description" : "附魔金苹果可以被合成！支持Minecraft 1.2和ModdedPE 2.2.3  Craftable Enchanted Golden Apple! Support Minecraft 1.2 and ModdedPE 2.2.3",
+  
+  "change_log" : "None",
+  
+  
+  "banner_title" : "Enchanted Golden Apple! ",
+  
+  //The image must be the size of 1024(width)*500(height)!
+  "banner_image_path" : "shiny_apple_banner.png"
+  
+  
+  //Assest Text Edit API
+  
+  //Assest Json Edit API
+  
+}
