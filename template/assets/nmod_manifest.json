@@ -1,0 +1,37 @@
+{
+  "name" : "Template",
+  
+  "package_name" : "com.mcal.template",
+  
+  "author" : "ModdedPE",
+  
+  "native_libs_info" :
+  [
+    {
+      "name" : "libtemplate.so",
+      "use_api" : "true"
+    }
+  ],
+  
+  "version_code" : 1,
+  
+  "version_name" : "1.0",
+  
+  "minecraft_version_name" : "1.11.4.2",
+  
+  "description" : "none",
+  
+  "change_log" : "none",
+  
+  
+  "banner_title" : "none",
+  
+  //The image must be the size of 1024(width)*500(height)!
+  "banner_image_path" : "banner.png"
+  
+  
+  //Assest Text Edit API
+  
+  //Assest Json Edit API
+  
+}

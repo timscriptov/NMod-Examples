@@ -4,18 +4,18 @@
 
 class Block {
     public:
-    static Block* mGoldBlock;
+    static Block* mNewGoldBlock;
 };
 
-class Item {
+class VanillaItem {
     public:
-    static Item* mApple;
-    static Item* mApple_enchanted;
+    static Item* mNewApple;
+    static Item* mNewApple_enchanted;
 };
 
 class ItemInstance {
     public:
-    ItemInstance(const Item&, int);
+    ItemInstance(const VanillaItem&, int);
 };
 
 class Recipes {
