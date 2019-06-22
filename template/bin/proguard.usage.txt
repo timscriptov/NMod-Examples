@@ -1,0 +1,7 @@
+adrt.ADRTLogCatReader
+adrt.ADRTSender
+com.mcal.template.BuildConfig
+com.mcal.template.R
+com.mcal.template.R$attr
+com.mcal.template.R$drawable
+com.mcal.template.R$string

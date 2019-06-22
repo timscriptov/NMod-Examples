@@ -1,0 +1,2 @@
+com.mcal.template.R$drawable: int icon
+com.mcal.template.R$string: int app_name

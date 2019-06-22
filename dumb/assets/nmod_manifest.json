@@ -1,0 +1,37 @@
+{
+  "name" : "...",
+  
+  "package_name" : "com.masterone123.dumb",
+  
+  "author" : "masterone123",
+  
+  "native_libs_info" :
+  [
+    {
+      "name" : "libdumb.so",
+      "use_api" : "true"
+    }
+  ],
+  
+  "version_code" : 1,
+  
+  "version_name" : "1.0",
+  
+  "minecraft_version_name" : "1.11.4.2",
+  
+  "description" : " ",
+  
+  "change_log" : " ",
+  
+  
+  "banner_title" : " ",
+  
+  //The image must be the size of 1024(width)*500(height)!
+  "banner_image_path" : "banner.png"
+  
+  
+  //Assest Text Edit API
+  
+  //Assest Json Edit API
+  
+}
