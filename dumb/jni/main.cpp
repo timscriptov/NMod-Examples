@@ -14,7 +14,7 @@ JNIEXPORT jint JNI_OnLoad(JavaVM*vm,void*)
 {
 	void* imageMCPE = dlopen("libminecraftpe.so", RTLD_LAZY);
 	MSHookFunction(
-		(void*)dlsym(handler, "_ZN4I18n3getERKSs"), 	// I18n::get(std::string const&)
+		(void*)dlsym(imageMCPE, "_ZN4I18n3getERKSs"), 	// I18n::get(std::string const&)
 		(void*)&I18n_get, 
 		(void**)&_I18n_get
 	);
